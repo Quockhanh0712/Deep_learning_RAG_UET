@@ -1,0 +1,12 @@
+{
+    "Python là gì?": "Python là một ngôn ngữ lập trình cấp cao, dễ đọc và dễ học, được sử dụng cho phát triển web, khoa học dữ liệu, trí tuệ nhân tạo và nhiều mục đích khác.",
+    "Làm thế nào để khai báo biến trong Python?": "Trong Python, bạn khai báo biến bằng cách gán giá trị cho tên biến, ví dụ: x = 10, name = 'Alice'.",
+    "Các kiểu dữ liệu cơ bản trong Python là gì?": "Các kiểu dữ liệu cơ bản bao gồm: int, float, str, bool, list, tuple, dict, set.",
+    "Câu lệnh if trong Python dùng để làm gì?": "Câu lệnh if dùng để thực hiện một khối lệnh nếu điều kiện là True.",
+    "Vòng lặp for và while khác nhau như thế nào?": "for dùng để lặp qua một chuỗi, danh sách hoặc range cố định, while lặp dựa trên điều kiện True cho đến khi điều kiện False.",
+    "Làm thế nào để định nghĩa hàm trong Python?": "Bạn dùng từ khóa def, ví dụ: def add(a, b): return a + b.",
+    "Làm sao để in ra màn hình trong Python?": "Sử dụng hàm print(), ví dụ: print('Hello World').",
+    "Làm thế nào để nhập dữ liệu từ bàn phím?": "Dùng hàm input(), ví dụ: name = input('Enter your name: ').",
+    "Danh sách (list) trong Python là gì và cách sử dụng?": "List là một cấu trúc dữ liệu có thể chứa nhiều giá trị theo thứ tự, ví dụ: numbers = [1,2,3]. Bạn có thể truy cập bằng chỉ số, thêm, xóa phần tử.",
+    "Làm sao để tính tổng các phần tử trong list?": "Dùng hàm sum(), ví dụ: total = sum(numbers)."
+}
