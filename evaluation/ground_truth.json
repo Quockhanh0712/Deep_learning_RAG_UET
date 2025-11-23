@@ -1,12 +1,12 @@
 {
-    "Python là gì?": "Python là một ngôn ngữ lập trình cấp cao, dễ đọc và dễ học, được sử dụng cho phát triển web, khoa học dữ liệu, trí tuệ nhân tạo và nhiều mục đích khác.",
-    "Làm thế nào để khai báo biến trong Python?": "Trong Python, bạn khai báo biến bằng cách gán giá trị cho tên biến, ví dụ: x = 10, name = 'Alice'.",
-    "Các kiểu dữ liệu cơ bản trong Python là gì?": "Các kiểu dữ liệu cơ bản bao gồm: int, float, str, bool, list, tuple, dict, set.",
-    "Câu lệnh if trong Python dùng để làm gì?": "Câu lệnh if dùng để thực hiện một khối lệnh nếu điều kiện là True.",
-    "Vòng lặp for và while khác nhau như thế nào?": "for dùng để lặp qua một chuỗi, danh sách hoặc range cố định, while lặp dựa trên điều kiện True cho đến khi điều kiện False.",
-    "Làm thế nào để định nghĩa hàm trong Python?": "Bạn dùng từ khóa def, ví dụ: def add(a, b): return a + b.",
-    "Làm sao để in ra màn hình trong Python?": "Sử dụng hàm print(), ví dụ: print('Hello World').",
-    "Làm thế nào để nhập dữ liệu từ bàn phím?": "Dùng hàm input(), ví dụ: name = input('Enter your name: ').",
-    "Danh sách (list) trong Python là gì và cách sử dụng?": "List là một cấu trúc dữ liệu có thể chứa nhiều giá trị theo thứ tự, ví dụ: numbers = [1,2,3]. Bạn có thể truy cập bằng chỉ số, thêm, xóa phần tử.",
-    "Làm sao để tính tổng các phần tử trong list?": "Dùng hàm sum(), ví dụ: total = sum(numbers)."
+    "Who is the main protagonist of The Last of the Mohicans?": "The main protagonist is Hawkeye, a skilled frontiersman of European descent, raised among the Mohicans.",
+    "Who are the last members of the Mohican tribe?": "Chingachgook and his son Uncas are the last members of the Mohican tribe.",
+    "What is the historical setting of the story?": "The story is set during the French and Indian War in 1757, in the region of upstate New York.",
+    "What is the relationship between Hawkeye and Chingachgook?": "Hawkeye is a close friend and ally of Chingachgook; they fight together to protect settlers and the Mohican tribe.",
+    "Who are the two sisters in the story and what happens to them?": "Cora and Alice Munro are the daughters of Colonel Munro; Cora is eventually killed by Magua, while Alice survives.",
+    "Who is Magua and what is his role in the story?": "Magua is a Huron chief and the main antagonist, seeking revenge against Colonel Munro and attempting to capture the Munro sisters.",
+    "Where does the climax of the story occur?": "The climax occurs at Fort William Henry, with battles between the British and French forces, and Magua capturing the Munro sisters.",
+    "What themes are explored in the novel?": "The novel explores themes of friendship, loyalty, cultural conflict, love, and the clash between Native Americans and European settlers.",
+    "How does Uncas die in the story?": "Uncas dies defending Cora Munro from Magua's attack.",
+    "What happens to Hawkeye at the end of the novel?": "Hawkeye survives the events and continues his life as a frontiersman, remaining loyal to his Mohican friends."
 }

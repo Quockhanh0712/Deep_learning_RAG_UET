@@ -46,6 +46,11 @@ class RAGPipeline:
         # Gom context từ các chunk
         context = "\n---\n".join([c["text"] for c in chunks])
 
+        if not context.strip():
+            answer = "there is no information in doc."
+            log_query(query, [], answer)
+            return answer
+
         # Build prompt
         prompt = format_prompt(
             context=context,

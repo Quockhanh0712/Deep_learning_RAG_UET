@@ -23,14 +23,18 @@ def format_prompt(context: str, question: str, instruction: str = None) -> str:
     if instruction is None:
         instruction = PROMPT_CONFIG.get(
             "instruction",
-            "Bạn là trợ lý AI thông minh. Trả lời câu hỏi dựa trên thông tin từ tài liệu."
+            "You are a smart AI assistant. Use the information from the document to answer accurately."
         )
+    if not context.strip():
+        context = "No information available in the document."
+
     template = (
         "{instruction}\n\n"
-        "Thông tin từ tài liệu:\n{context}\n\n"
-        "Câu hỏi:\n{question}\n\n"
-        "Trả lời:"
+        "Context:\n{context}\n\n"
+        "Question:\n{question}\n\n"
+        "Answer:"
     )
+
     return template.format(instruction=instruction, context=context, question=question)
 
 def format_chat_prompt(history: list, context: str = "", instruction: str = None) -> str:
@@ -43,13 +47,15 @@ def format_chat_prompt(history: list, context: str = "", instruction: str = None
     if instruction is None:
         instruction = PROMPT_CONFIG.get(
             "instruction",
-            "Bạn là trợ lý AI thông minh. Trả lời dựa trên thông tin từ tài liệu nếu có."
+            "You are a smart AI assistant. Use the information from the document to answer accurately."
         )
 
     prompt_parts = [instruction, ""]
+    if not context.strip():
+        context = "No information available in the document."
 
     if context:
-        prompt_parts.append("Thông tin từ tài liệu:\n" + context)
+        prompt_parts.append("Information from the document:\n" + context)
         prompt_parts.append("")
 
     for turn in history:
@@ -58,6 +64,7 @@ def format_chat_prompt(history: list, context: str = "", instruction: str = None
         prompt_parts.append(f"{role.capitalize()}: {content}")
 
     prompt_parts.append("Assistant:")  # vị trí LLM trả lời
+
     return "\n".join(prompt_parts)
 
 class PromptTemplate:

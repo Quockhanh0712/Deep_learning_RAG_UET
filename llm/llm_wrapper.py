@@ -45,11 +45,20 @@ class LLMWrapper:
 
     def generate(self, prompt: str) -> str:
         """
-        Generate text from a prompt using local model.
+        Generate text from a prompt using local model, with truncation to avoid token overflow.
         """
         if self.generator is None:
             return "[Local model generate not implemented]"
-        
+
+        # Tokenize prompt
+        tokens = self.tokenizer.encode(prompt, return_tensors="pt")
+        max_model_tokens = self.model.config.n_positions  # GPT2 max context length
+
+        # Truncate if too long
+        if tokens.size(1) > max_model_tokens - self.max_tokens:
+            tokens = tokens[:, -(max_model_tokens - self.max_tokens):]
+            prompt = self.tokenizer.decode(tokens[0], skip_special_tokens=True)
+
         output = self.generator(
             prompt,
             max_new_tokens=self.max_tokens,
