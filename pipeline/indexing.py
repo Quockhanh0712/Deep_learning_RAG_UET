@@ -64,7 +64,7 @@ def build_faiss_index(chunks, index_path="faiss_index/index.faiss", mapping_path
 
     logging.info("Encoding chunks...")
     for chunk in chunks:
-        text = chunk["text"]
+        text = chunk["chunk"]
         vector = embedding_model.encode([text])[0].astype("float32")
         # normalize nếu cosine
         if INDEX_CONFIG["metric"].lower() == "cosine":
@@ -73,7 +73,7 @@ def build_faiss_index(chunks, index_path="faiss_index/index.faiss", mapping_path
         mapping.append({
             "chunk_id": chunk["chunk_id"],
             "source": chunk.get("source", "unknown"),
-            "text": text,
+            "chunk": text,
             "embedding": vector  # lưu embedding để đồng bộ
         })
 
@@ -110,7 +110,7 @@ def update_index(new_chunks, index_path="faiss_index/index.faiss", mapping_path=
 
     logging.info("Encoding new chunks...")
     for chunk in new_chunks:
-        text = chunk["text"]
+        text = chunk["chunk"]
         vector = embedding_model.encode([text])[0].astype("float32")
         if INDEX_CONFIG["metric"].lower() == "cosine":
             faiss.normalize_L2(vector.reshape(1, -1))
@@ -118,7 +118,7 @@ def update_index(new_chunks, index_path="faiss_index/index.faiss", mapping_path=
         mapping.append({
             "chunk_id": chunk["chunk_id"],
             "source": chunk.get("source", "unknown"),
-            "text": text,
+            "chunk": text,
             "embedding": vector
         })
 

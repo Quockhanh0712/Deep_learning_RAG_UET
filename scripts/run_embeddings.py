@@ -57,7 +57,7 @@ def main():
     chunks_for_index = []
     for i, m in mapping.items():
         chunks_for_index.append({
-            "chunk": m["text"],
+            "chunk": m["chunk"],
             "source": m.get("metadata", {}).get("source", f"chunk_{i}"),
             "chunk_id": i
         })

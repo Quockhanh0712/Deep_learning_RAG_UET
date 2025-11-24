@@ -86,7 +86,7 @@ class EmbeddingModel:
             batch_emb = self.encode(texts, batch_size=batch_size, convert_to_numpy=True)
             embeddings_list.append(batch_emb)
             for j, c in enumerate(batch):
-                mapping[i+j] = {"text": c["chunk"], "metadata": c.get("metadata", {})}
+                mapping[i+j] = {"chunk": c["chunk"], "metadata": c.get("metadata", {})}
         embeddings = np.vstack(embeddings_list)
         logging.info(f"Created embeddings with shape {embeddings.shape}")
         return embeddings, mapping
