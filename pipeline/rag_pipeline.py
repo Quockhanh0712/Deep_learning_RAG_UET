@@ -44,7 +44,7 @@ class RAGPipeline:
         chunks = self.retriever.get_top_k(query, top_k=self.top_k)
 
         # Gom context từ các chunk
-        context = "\n---\n".join([c["text"] for c in chunks])
+        context = "\n---\n".join([c["chunk"] for c in chunks])
 
         if not context.strip():
             answer = "there is no information in doc."

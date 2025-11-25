@@ -149,9 +149,7 @@ def main():
     print("\n--- LOAD EMBEDDING MODEL ---")
     model = EmbeddingModel(model_name=MODEL_NAME)
 
-    test_query("Who is the main protagonist of The Last of the Mohicans?", index, mapping, model)
-    test_query("Who is the main antagonist?", index, mapping, model)
-
+    test_query("How should crimes committed by a person be handled according to the law?", index, mapping, model)
 
 if __name__ == "__main__":
     main()

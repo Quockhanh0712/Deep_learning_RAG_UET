@@ -94,7 +94,7 @@ def process_file(file_path: str) -> list[dict]:
 def chunk_documents(doc_texts: list[dict]) -> list[dict]:
     all_chunks = []
     for doc in doc_texts:
-        text = doc.get("text", "") ### chunk
+        text = doc.get("chunk", "") ### chunk
         source = doc.get("source", "unknown")
         chunks = chunk_text(text, source)
         all_chunks.extend(chunks)

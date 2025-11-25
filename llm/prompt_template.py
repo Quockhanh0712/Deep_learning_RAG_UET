@@ -47,7 +47,7 @@ def format_chat_prompt(history: list, context: str = "", instruction: str = None
     if instruction is None:
         instruction = PROMPT_CONFIG.get(
             "instruction",
-            "You are a smart AI assistant. Use the information from the document to answer accurately."
+            "Answer the question based on the following context"
         )
 
     prompt_parts = [instruction, ""]

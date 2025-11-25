@@ -6,7 +6,7 @@ paths:
   error_log: "logs/error_logs.txt"
   raw_data: "data/raw"
   processed_data: "data/processed"
-  raw_file: "data/raw/the_last_of_the_mohicans.pdf"
+  raw_file: "data/raw/vn086en.pdf"
   faiss_index: "faiss_index/index.faiss"
 
 embedding:
@@ -14,21 +14,21 @@ embedding:
   batch_size: 32
 
 llm:
-  model_name: gpt2  # Hoặc model local bạn host
+  model_name: Qwen/Qwen2.5-1.5B-Instruct  # Hoặc model local bạn host
   mode: "local"            # luôn là local
-  temperature: 0.1
+  temperature: 0.2
   max_tokens: 1024
 
 prompt:
-  instruction: "Answer in only one sentence."
+  instruction: "Answer the question based on the following context"
 
 chunking:
-  chunk_size: 500
+  chunk_size: 100
   chunk_overlap: 50
 
 indexing:
   index_type: "Flat"       # có thể Flat, IVF, HNSW
   metric: "cosine"         # cosine / ip / l2
   dimension: 1024          # dimension embedding model
-  top_k: 5
+  top_k: 20
 
