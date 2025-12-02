@@ -1,0 +1,13 @@
+chromadb
+sentence-transformers
+pypdf
+streamlit
+google-genai
+python-dotenv
+pytest
+ollama
+torch
+
+# Modern Chat UI Libraries
+chainlit>=1.0.0
+gradio>=4.0.0
