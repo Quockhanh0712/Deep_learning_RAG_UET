@@ -1,0 +1,41 @@
+# Core Libraries
+sentence-transformers>=2.2.0
+pypdf
+streamlit
+google-genai
+python-dotenv>=1.0.0
+pytest
+ollama>=0.1.0
+torch>=2.0.0
+
+# Modern Chat UI Libraries
+chainlit>=1.0.0
+gradio>=4.0.0
+
+# Advanced RAG Dependencies
+rank-bm25>=0.2.2        # BM25 sparse search fallback
+nltk>=3.8               # Tokenization for BM25
+
+# Vietnamese Legal LLM (Qwen3-4B) - HuggingFace Transformers
+transformers>=4.40.0    # For loading Qwen3 model
+accelerate>=0.27.0      # For efficient model loading
+bitsandbytes>=0.42.0    # For 4-bit/8-bit quantization (save VRAM)
+
+# Vietnamese Word Segmentation
+pyvi>=0.1.1             # Vietnamese tokenizer (ViTokenizer)
+
+# Web App Backend Requirements
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+python-multipart>=0.0.6
+
+# Pydantic
+pydantic>=2.0.0
+
+# File Processing
+pymupdf>=1.23.0
+python-docx>=1.0.0
+docx2txt>=0.8           # For legacy .doc files
+
+# Vector DB
+qdrant-client>=1.7.0
