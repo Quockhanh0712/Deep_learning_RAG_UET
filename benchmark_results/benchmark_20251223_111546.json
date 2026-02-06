@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-12-23T11:15:46.532649",
+  "dataset": "ALQAC.csv",
+  "total_samples": 530,
+  "evaluated_samples": 530,
+  "retrieval": {
+    "mrr": 0.688770589997005,
+    "recall_at_1": 0.590566037735849,
+    "recall_at_3": 0.7773584905660378,
+    "recall_at_5": 0.8056603773584906,
+    "recall_at_10": 0.869811320754717,
+    "precision_at_1": 0.590566037735849,
+    "precision_at_3": 0.3113207547169811,
+    "precision_at_5": 0.2120754716981132,
+    "hit_rate_at_1": 0.590566037735849,
+    "hit_rate_at_5": 0.8056603773584906,
+    "hit_rate_at_10": 0.869811320754717,
+    "avg_retrieval_time": 0.09826012647376871
+  },
+  "generation": {
+    "exact_match": 0.5566037735849056,
+    "f1_score": 0.23313258229558717,
+    "bleu_1": 0.11225699634547108,
+    "bleu_2": 0.09948099042414814,
+    "bleu_4": 0.08253145342738154,
+    "rouge_1": 0.20025702217392932,
+    "rouge_2": 0.1598609369402827,
+    "rouge_l": 0.18389594261388986,
+    "bert_score_p": 0.5903873825972935,
+    "bert_score_r": 0.7555084421949566,
+    "bert_score_f1": 0.6613841024772176,
+    "answer_length_ratio": 24.99900726394168,
+    "extractive_rate": 0.9849056603773585,
+    "avg_generation_time": 5.667319033280858
+  },
+  "config": {
+    "top_k": 10,
+    "use_llm": true,
+    "use_bert_score": true,
+    "sample_size": null
+  }
+}

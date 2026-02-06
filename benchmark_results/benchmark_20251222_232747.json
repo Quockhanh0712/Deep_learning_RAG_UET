@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-12-22T23:27:47.000279",
+  "dataset": "ALQAC.csv",
+  "total_samples": 20,
+  "evaluated_samples": 20,
+  "retrieval": {
+    "mrr": 0.6333333333333333,
+    "recall_at_1": 0.5,
+    "recall_at_3": 0.8,
+    "recall_at_5": 0.8,
+    "recall_at_10": 0.8,
+    "precision_at_1": 0.5,
+    "precision_at_3": 0.2666666666666666,
+    "precision_at_5": 0.16000000000000006,
+    "hit_rate_at_1": 0.5,
+    "hit_rate_at_5": 0.8,
+    "hit_rate_at_10": 0.8,
+    "avg_retrieval_time": 0.1856268048286438
+  },
+  "generation": {
+    "exact_match": 0.45,
+    "f1_score": 0.2680064481228165,
+    "bleu_1": 0.14509017197380644,
+    "bleu_2": 0.1284756530061397,
+    "bleu_4": 0.10215957931511496,
+    "rouge_1": 0.23399711729776856,
+    "rouge_2": 0.1923754596000133,
+    "rouge_l": 0.22148305182565994,
+    "bert_score_p": 0.0,
+    "bert_score_r": 0.0,
+    "bert_score_f1": 0.0,
+    "answer_length_ratio": 25.402750275199516,
+    "extractive_rate": 1.0,
+    "avg_generation_time": 5.953419291973114
+  },
+  "config": {
+    "top_k": 10,
+    "use_llm": true,
+    "use_bert_score": false,
+    "sample_size": 20
+  }
+}

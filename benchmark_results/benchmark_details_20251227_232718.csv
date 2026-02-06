@@ -1,0 +1,3 @@
+﻿idx,question,ground_truth,generated_answer,retrieval_time,generation_time,mrr,recall@1,recall@3,recall@5,recall@10,precision@1,precision@3,precision@5
+140,Đôi với người lao động trong đièu kiện bình thường thì được nghỉ bao lâu 1 năm?,12 ngày,,0.7619595527648926,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+398,Cần phải nghiên cứu những phương pháp để đảm bảo điều gì đối với phần cứng và phần mêm?,thực hiện đúng chức năng,,0.05881047248840332,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

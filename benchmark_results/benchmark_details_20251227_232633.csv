@@ -1,0 +1,6 @@
+﻿idx,question,ground_truth,generated_answer,retrieval_time,generation_time,mrr,recall@1,recall@3,recall@5,recall@10,precision@1,precision@3,precision@5
+140,Đôi với người lao động trong đièu kiện bình thường thì được nghỉ bao lâu 1 năm?,12 ngày,,0.5561566352844238,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+398,Cần phải nghiên cứu những phương pháp để đảm bảo điều gì đối với phần cứng và phần mêm?,thực hiện đúng chức năng,,0.047882080078125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,"Khi bị tịch thu tài sản, phần tài sản bị tịch thu của người bị kết án sẽ nộp vào đâu?",ngân sách nhà nước,,0.05833029747009277,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+334,"Cho thuê, cho mượn địa điểm hoặc có bất kỳ hành vi nào khác chứa chấp việc sử dụng trái phép chất ma túy có thể bị phạt tiền tối thiểu bao nhiêu?",50.000.000 đồng,,0.02926158905029297,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+322,"Người nào làm, tàng trữ, vận chuyển, lưu hành tiền giả, thì bị phạt tù tối thiểu bao nhiêu năm?",03 năm,,0.05339837074279785,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

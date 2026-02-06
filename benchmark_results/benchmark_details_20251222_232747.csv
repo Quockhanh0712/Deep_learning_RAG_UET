@@ -1,0 +1,130 @@
+﻿idx,question,ground_truth,generated_answer,retrieval_time,generation_time,mrr,recall@1,recall@3,recall@5,recall@10,precision@1,precision@3,precision@5,exact_match,f1_score,bleu_1,bleu_2,bleu_4,rouge_1,rouge_2,rouge_l,length_ratio,extractive
+140,Đôi với người lao động trong đièu kiện bình thường thì được nghỉ bao lâu 1 năm?,12 ngày,"Để trả lời câu hỏi này, chúng ta cần so sánh các quy định về thời gian nghỉ hằng năm từ các văn bản liên quan.
+
+Theo Điều 113.0 của Bộ luật Lao động (các điều chỉnh và bổ sung đến một số điều của Luật Giao thông đường hàng không Việt Nam), người lao động làm việc đủ 12 tháng cho một người sử dụng lao động được nghỉ hằng năm với các mức như sau:
+- Đối với người làm công việc trong điều kiện bình thường: 12 ngày làm việc.
+- Người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm được nghỉ hằng năm 14 ngày làm việc.
+- Người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm được nghỉ hằng năm 16 ngày làm việc.
+
+Tuy nhiên, Điều 74.0 của Luật Giao thông đường hàng không Việt Nam quy định:
+- Đối với người lao động có 12 tháng làm việc tại một doanh nghiệp hoặc với một người sử dụng lao động thì được nghỉ hàng năm: a) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường.
+
+Như vậy, theo Điều 74.0 của Luật Giao thông đường hàng không Việt Nam, người lao động làm việc đủ 12 tháng cho một người sử dụng lao động được nghỉ hằng năm là 12 ngày làm việc, kể cả khi làm công việc trong điều kiện bình thường.
+
+Lưu ý quan trọng: Các quy định về thời gian nghỉ hằng năm có thể thay đổi tùy theo từng văn bản luật và ngành nghề cụ thể. Vì vậy, người lao động nên tham khảo các văn bản pháp luật liên quan để nắm rõ quyền lợi của mình.",0.5857853889465332,8.227600574493408,0.5,0.0,1.0,1.0,1.0,0.0,0.3333333333333333,0.2,1.0,0.03225806451612903,0.006557377049180327,0.004644385776475158,0.0012390868566390229,0.012552301255230124,0.008403361344537815,0.012552301255230124,152.5,1.0
+398,Cần phải nghiên cứu những phương pháp để đảm bảo điều gì đối với phần cứng và phần mêm?,thực hiện đúng chức năng,"Theo Điều 3.2 của Quy chuẩn kỹ thuật quốc gia về thiết bị truyền dữ liệu băng rộng hoạt động trong băng tần 2,4 GHz (Bản phát hành), cần phải nghiên cứu các phương pháp để đảm bảo các yêu cầu đo kiểm khác. Điều này bao gồm việc thực hiện phép đo bằng cách sử dụng cấu hình trường hợp xấu nhất liên quan đến yêu cầu được đo kiểm. Đối với thiết bị FHSS, thiết bị cần cho phép lựa chọn tần số nhảy cụ thể bằng tay để tạo điều kiện cho các bài đo kiểm được thực hiện.",0.03329300880432129,5.7616283893585205,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.04878048780487805,0.0196078431372549,0.013933307603182385,0.0037421252027206387,0.10112359550561797,0.04545454545454545,0.10112359550561797,20.4,1.0
+6,"Khi bị tịch thu tài sản, phần tài sản bị tịch thu của người bị kết án sẽ nộp vào đâu?",ngân sách nhà nước,"Theo Điều 45.0 của [TỐ TỤNG HÌNH SỰ], khi tịch thu tài sản, phần tài sản bị tịch thu của người bị kết án sẽ được nộp vào ngân sách nhà nước. Không tìm thấy quy định cụ thể về việc tài sản bị thu hồi trong các văn bản được cung cấp.",0.03697681427001953,4.1600258350372314,0.5,0.0,1.0,1.0,1.0,0.0,0.3333333333333333,0.2,1.0,0.17391304347826084,0.07547169811320754,0.06598588053218755,0.04298807144691974,0.15384615384615385,0.1348314606741573,0.15384615384615385,13.25,1.0
+334,"Cho thuê, cho mượn địa điểm hoặc có bất kỳ hành vi nào khác chứa chấp việc sử dụng trái phép chất ma túy có thể bị phạt tiền tối thiểu bao nhiêu?",50.000.000 đồng,"Theo Điều 185k của Sửa đổi, bổ sung một số điều của Bộ luật Hình sự năm 2015 (được áp dụng từ ngày 01/07/2016), người phạm tội cho thuê, cho mượn địa điểm hoặc có bất kỳ hành vi nào khác chứa chấp việc sử dụng trái phép chất ma túy sẽ bị phạt tiền từ hai mươi triệu đồng đến hai trăm triệu đồng. 
+
+Điều này là mức phạt tối thiểu được quy định trong văn bản pháp luật được cung cấp.",0.04806041717529297,4.850013732910156,1.0,1.0,1.0,1.0,1.0,1.0,0.3333333333333333,0.2,0.0,0.027397260273972605,0.012048192771084333,0.0038331342284764172,0.0021821432764033825,0.014814814814814814,0.0,0.014814814814814814,41.5,1.0
+322,"Người nào làm, tàng trữ, vận chuyển, lưu hành tiền giả, thì bị phạt tù tối thiểu bao nhiêu năm?",03 năm,"Điều 207, Khoản 1 của [TỐ TỤNG HÌNH SỰ quy định: ""Người nào làm, tàng trữ, vận chuyển, lưu hành tiền giả, thì bị phạt tù từ 03 năm đến 07 năm.""]
+
+Theo đó, người phạm tội này sẽ phải chịu mức án tối thiểu là 03 năm tù.",0.1782689094543457,5.013869285583496,1.0,1.0,1.0,1.0,1.0,1.0,0.3333333333333333,0.2,1.0,0.0851063829787234,0.040816326530612235,0.029160592175990215,0.007919253535534795,0.07692307692307693,0.052631578947368425,0.07692307692307693,24.5,1.0
+82,Nếu hai bên không xác định rõ ràng thời gian thanh toán thì bên mua cần thanh toán lúc nào?,ngay tại thời điểm nhận tài sản mua hoặc nhận giấy tờ chứng nhận quyền sở hữu tài sản,"Theo Điều 434, Khoản 2 của [DÂN SỰ], nếu các bên không thỏa thuận thời hạn giao tài sản, bên mua có quyền yêu cầu bên bán giao tài sản bất cứ lúc nào, nhưng phải báo trước cho nhau một thời gian hợp lý. Tuy nhiên, theo Điều 55, Khoản 1 của [THƯƠNG MẠI], bên mua không có nghĩa vụ thanh toán cho đến khi có thể kiểm tra xong hàng hoá, trừ trường hợp có thỏa thuận theo quy định tại Điều 44 của Luật này.
+
+Vì vậy, nếu hai bên không xác định rõ ràng thời gian thanh toán, thì:
+
+1. Bằng cách của [DÂN SỰ], bên mua có quyền yêu cầu bên bán giao tài sản bất cứ lúc nào với điều kiện báo trước một thời gian hợp lý.
+2. Bằng cách của [THƯƠNG MẠI], bên mua không có nghĩa vụ thanh toán cho đến khi có thể kiểm tra xong hàng hoá, trừ trường hợp có thỏa thuận theo quy định tại Điều 44 của Luật này.
+
+Lưu ý quan trọng: Cần xem xét thêm các điều khoản cụ thể trong thỏa thuận giữa hai bên để xác định chính xác thời điểm thanh toán.",0.07155561447143555,6.982387065887451,1.0,1.0,1.0,1.0,1.0,1.0,0.3333333333333333,0.2,0.0,0.13333333333333333,0.044776119402985065,0.025916052767440797,0.003613306989108429,0.18591549295774648,0.08498583569405098,0.14647887323943662,10.578947368421053,1.0
+225,Tài sản vô chủ bị chôn giấu là tài sản thuộc di tích lịch sử - văn hóa theo quy định của Luật di sản văn hóa thì quyển sở hữu thuộc về chủ thể nào?,Nhà nước,"Điều 229, Khoản 1 Điều 229. Xác lập quyền sở hữu đối với tài sản bị chôn, giấu, bị vùi lấp, chìm đắm được tìm thấy quy định rằng:
+
+a) Tài sản được tìm thấy là tài sản thuộc di tích lịch sử - văn hóa theo quy định của Luật di sản văn hóa thì thuộc về Nhà nước; người tìm thấy tài sản đó được hưởng một khoản tiền thưởng theo quy định của pháp luật.
+
+Theo Điều này, nếu tài sản vô chủ bị chôn giấu và xác định là thuộc di tích lịch sử - văn hóa theo Luật di sản văn hóa, quyền sở hữu sẽ thuộc về Nhà nước. Người phát hiện tài sản có quyền được hưởng một khoản tiền thưởng theo quy định của pháp luật.",0.028675079345703125,5.306753635406494,1.0,1.0,1.0,1.0,1.0,1.0,0.3333333333333333,0.2,1.0,0.06557377049180328,0.014925373134328363,0.010593434317257457,0.002838292060544308,0.027522935779816512,0.018518518518518517,0.027522935779816512,67.0,1.0
+496,"Theo Bộ luật Dân sự 2015, Quyền sở hữu, quyền khác đối với tài sản là động sản có được đăng ký tại cơ quan nhà nước có thẩm quyền không?","Quyền sở hữu, quyền khác đối với tài sản là động sản không phải đăng ký, trừ trường hợp pháp luật về đăng ký tài sản có quy định khác.","Theo Điều 458 của [DÂN SỰ - Điều 458. Tặng cho động sản], quy định về hợp đồng tặng cho động sản, không yêu cầu phải đăng ký quyền sở hữu tại cơ quan nhà nước có thẩm quyền. Điều này cho thấy quyền sở hữu và các quyền khác đối với động sản không bắt buộc phải được đăng ký.
+
+Tuy nhiên, cần lưu ý rằng, theo [CỦA CHÍNH PHỦ SỐ 60-CP NGÀY 06 THÁNG 6 NĂM 1997 HƯỚNG DẪN THI HÀNH CÁC QUY ĐỊNH CỦA BỘ LUẬT DÂN SỰ VỀ QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI - Điều 9.0 - Điều 9.- Quyền sở hữu tài sản], đối với động sản trên đường vận chuyển, việc xác lập và nội dung quyền sở hữu được xác định theo pháp luật của nước nơi động sản được chuyển đến, nếu không có thoả thuận khác.
+
+Vì vậy, trong trường hợp cụ thể này, quyền sở hữu và các quyền khác đối với động sản có thể không yêu cầu đăng ký tại cơ quan nhà nước có thẩm quyền, trừ khi có quy định cụ thể về việc phải đăng ký ở nước nơi động sản được chuyển đến.",0.029824256896972656,7.326601266860962,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.36363636363636365,0.13793103448275862,0.10120476051401883,0.035162663946593446,0.2662889518413598,0.19943019943019943,0.22096317280453256,6.766666666666667,1.0
+523,Chức năng của Trung tâm trọng tài là gì?,"Tổ chức, điều phối hoạt động giải quyết tranh chấp bằng Trọng tài quy chế và hỗ trợ Trọng tài viên về các mặt hành chính, văn phòng và các trợ giúp khác trong quá trình tố tụng trọng tài.","Theo Điều 23, Khoản 1 của [TRỌNG TÀI THƯƠNG MẠI], chức năng của Trung tâm trọng tài bao gồm:
+
+- Tổ chức và điều phối hoạt động giải quyết tranh chấp bằng Trọng tài quy chế.
+- Hỗ trợ Trọng tài viên về các mặt hành chính, văn phòng và các trợ giúp khác trong quá trình tố tụng trọng tài.
+
+Không tìm thấy quy định liên quan đến mức phạt hoặc điều kiện cụ thể nào trong các văn bản được cung cấp.",0.03644084930419922,4.756927728652954,1.0,1.0,1.0,1.0,1.0,1.0,0.3333333333333333,0.2,0.0,0.673469387755102,0.47619047619047616,0.45446721279351154,0.4223237147232266,0.6534653465346535,0.63,0.6435643564356436,2.1,1.0
+101,Thành viên rút khỏi hợp đồng hợp tác có quyền gì?,"quyền yêu cầu nhận lại tài sản đã đóng góp, được chia phần tài sản trong khối tài sản chung và phải thanh toán các nghĩa vụ theo thỏa thuận","Thành viên rút khỏi hợp đồng hợp tác có quyền:
+
+1. Nhận lại tài sản đã đóng góp.
+2. Được chia phần tài sản trong khối tài sản chung.
+3. Thanh toán các nghĩa vụ theo thỏa thuận.
+
+Điều 510, Khoản 2 của [DÂN SỰ - Điều 510. Rút khỏi hợp đồng hợp tác] quy định rõ những quyền trên.",0.04702925682067871,4.4690916538238525,1.0,1.0,1.0,1.0,1.0,1.0,0.3333333333333333,0.2,0.0,0.6111111111111112,0.43333333333333335,0.40197253749970885,0.34913297996664633,0.6388888888888888,0.5352112676056338,0.5833333333333334,2.0,1.0
+10,"Người làm lính đánh thuê nhằm chống một quốc gia hoặc một vùng lãnh thổ độc lập, có chủ quyền, thì bị phạt tù từ bao nhiêu đến bao nhiêu năm?",từ 05 năm đến 15 năm,"Điều 425.0 quy định: ""Người nào làm lính đánh thuê nhằm chống một quốc gia hoặc một vùng lãnh thổ độc lập, có chủ quyền, thì bị phạt tù từ 05 năm đến 15 năm.""",0.45342278480529785,3.737661361694336,0.5,0.0,1.0,1.0,1.0,0.0,0.3333333333333333,0.2,1.0,0.2631578947368421,0.1714285714285714,0.15877683720748895,0.13009868453084908,0.25806451612903225,0.23333333333333334,0.25806451612903225,5.833333333333333,1.0
+529,Cơ quan nào có trách nhiệm thống nhất quản lý nhà nước về điện ảnh?,Chính phủ,"Theo Điều 9.0 của [ĐIỆN ẢNH - Điều 9. Cơ quan quản lý nhà nước về điện ảnh], cơ quan có trách nhiệm thống nhất quản lý nhà nước về điện ảnh là Chính phủ. Đây là quy định trong Điều 9, Khoản 1 của văn bản này.",0.42363953590393066,4.472089529037476,1.0,1.0,1.0,1.0,1.0,1.0,0.3333333333333333,0.2,1.0,0.1111111111111111,0.041666666666666664,0.029774566708770676,0.008089657572395275,0.08333333333333333,0.05714285714285715,0.08333333333333333,24.0,1.0
+77,"Theo Bộ luật Hình sự năm 2017, cảnh cáo được áp dụng đối với người phạm tội như thế nào?","ít nghiêm trọng và có nhiều tình tiết giảm nhẹ, nhưng chưa đến mức miễn hình phạt","Theo Điều 34 của Bộ Luật Hình sự năm 2017 quy định:
+
+""Người phạm một trong các hành vi sau đây bị phạt cảnh cáo:
+1. Người có hành vi vi phạm pháp luật, quy tắc, quy định của cơ quan nhà nước có thẩm quyền hoặc của tổ chức, cá nhân mà không được phép nhưng chưa đủ điều kiện xử lý hình sự theo quy định tại Điều 40, Điều 42 và Điều 43 của Bộ Luật này.
+2. Người có hành vi vi phạm pháp luật, quy tắc, quy định của cơ quan nhà nước có thẩm quyền hoặc của tổ chức, cá nhân mà chưa đủ điều kiện xử lý hình sự theo quy định tại Điều 40, Điều 42 và Điều 43 của Bộ Luật này nhưng đã từng bị xử phạt vi phạm hành chính trong vòng 5 năm kể từ ngày hết thời hạn chấp hành quyết định xử phạt vi phạm hành chính.""
+
+Theo Điều này, cảnh cáo được áp dụng cho người có hành vi vi phạm pháp luật, quy tắc, quy định mà chưa đủ điều kiện xử lý hình sự theo quy định tại các điều khoản cụ thể của Bộ Luật Hình sự.",0.29749155044555664,7.37664008140564,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.12903225806451613,0.029268292682926834,0.011977980754514667,0.0024320917448733955,0.13649851632047477,0.041791044776119404,0.12462908011869434,12.058823529411764,1.0
+299,"Người phạm tội vô ý làm chết 02 người trở lên, thì bị phạt tù từ bao nhiêu đến bao nhiêu năm?",từ 03 năm đến 10 năm,"Theo Điều 128.0 của [TỐ TỤNG HÌNH SỰ], khi người phạm tội vô ý làm chết 02 người trở lên, họ sẽ bị phạt tù từ 01 năm đến 05 năm.
+
+Điều này được quy định trong Mục 1 của Điều 128.0, cụ thể là Khoản 1: ""Người nào vô ý làm chết người, thì bị phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 01 năm đến 05 năm.""",0.1584310531616211,4.670257806777954,0.3333333333333333,0.0,1.0,1.0,1.0,0.0,0.3333333333333333,0.2,0.0,0.1481481481481481,0.06756756756756757,0.04302518140261443,0.007757354593159469,0.12068965517241378,0.07017543859649122,0.12068965517241378,12.333333333333334,1.0
+318,"Trồng cây thuốc phiện, cây côca, cây cần sa hoặc các loại cây khác có chứa chất ma túy do Chính phủ quy định với số lượng bao nhiêu thì có thể bị phạt tù đến 07 năm?",3.000 cây trở lên,"Để bị phạt tù từ 07 năm, người trồng cây thuốc phiện, cây côca, cây cần sa hoặc các loại cây khác có chứa chất ma túy do Chính phủ quy định phải thỏa mãn một trong các trường hợp sau:
+
+1. Phạm tội thuộc một trong các trường hợp sau đây (Điều 247, Khoản 2a): 
+   - Có tổ chức
+   - Với số lượng từ 3.000 cây trở lên
+
+2. Phạm tội thuộc một trong các trường hợp sau đây (Điều 185a, Khoản 2a):
+   - Có tổ chức
+
+Theo Điều 192 của Bộ luật Hình sự năm 1999, người trồng cây thuốc phiện hoặc các loại cây khác có chứa chất ma túy phải được áp dụng đầy đủ cả ba biện pháp: ""Đã được giáo dục nhiều lần"", ""đã được tạo điều kiện ổn định cuộc sống"" và ""đã bị xử phạt hành chính về hành vi này mà còn vi phạm"". 
+
+Ngoài ra, theo Điều 250 của Bộ luật Hình sự sửa đổi bổ sung năm 2017, người nào vận chuyển trái phép chất ma túy với khối lượng từ 01 gam đến dưới 500 gam hoặc từ 0,1 gam đến dưới 5 gam có thể bị phạt tù từ 02 năm đến 07 năm.
+
+Tuy nhiên, không tìm thấy quy định cụ thể về số lượng cây mà người trồng cây thuốc phiện, cây côca, cây cần sa hoặc các loại cây khác có chứa chất ma túy do Chính phủ quy định sẽ bị phạt tù đến 07 năm trong các văn bản được cung cấp.",0.23754096031188965,9.05204701423645,1.0,1.0,1.0,1.0,1.0,1.0,0.3333333333333333,0.2,1.0,0.06153846153846154,0.015384615384615389,0.013349163951355833,0.008562416022389883,0.03465346534653465,0.02985074626865672,0.03465346534653465,65.0,1.0
+469,"Theo Bộ luật dân sự 2015, người thành niên có năng lực hành vi dân sự như thế nào?","có năng lực hành vi dân sự đầy đủ, trừ trường hợp quy định tại các điều 22, 23 và 24 của Bộ luật này.","Để trả lời câu hỏi này, chúng ta cần trích dẫn Điều 19 của Bộ Luật Dân sự 2015.
+
+Theo Điều X, Khoản Y của [DÂN SỰ - Điều 19.0 - Điều 19. Năng lực hành vi dân sự của cá nhân], người thành niên từ đủ mười tám tuổi trở lên có năng lực hành vi dân sự như sau:
+
+Điều 19.0 quy định: ""Năng lực hành vi dân sự của người thành niên từ đủ mười tám tuổi trở lên là khả năng của người thành niên bằng hành vi của mình xác lập, thực hiện quyền, nghĩa vụ dân sự.""
+
+Theo Điều này, người thành niên từ đủ mười tám tuổi trở lên có đủ năng lực để xác lập và thực hiện các quyền và nghĩa vụ dân sự thông qua hành vi của mình.",0.31697869300842285,5.967301845550537,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.39080459770114945,0.12230215827338128,0.08930972910876724,0.05661575817550468,0.2578125,0.15748031496062992,0.203125,5.56,1.0
+2,"Theo Bộ luật Hình sự năm 2017, người từ đủ bao nhiêu tuổi phải chịu trách nhiệm hình sự về mọi tội phạm, trừ những tội phạm mà Bộ luật này có quy định khác?",16 tuổi,"Theo Điều 12.1 của Bộ Luật Hình sự năm 2015 (sau khi sửa đổi bổ sung bởi Sửa đổi, bổ sung một số điều của Bộ luật hình sự số 100/2015/QH13), người từ đủ 16 tuổi trở lên phải chịu trách nhiệm hình sự về mọi tội phạm, trừ những tội phạm mà Bộ luật này có quy định khác.",0.09398984909057617,5.0185511112213135,1.0,1.0,1.0,1.0,1.0,1.0,0.3333333333333333,0.2,1.0,0.08888888888888888,0.03333333333333333,0.02376913442707642,0.006429555819679603,0.06315789473684211,0.043010752688172046,0.06315789473684211,30.0,1.0
+158,"Cần phải làm gì đối với lao động đang mang thai và đang làm công việc nặng nhọc, độc hại, nguy hiểm?","chuyển sang làm công việc nhẹ hơn, an toàn hơn hoặc giảm bớt 01 giờ làm việc hằng ngày mà không bị cắt giảm tiền lương và quyền, lợi ích cho đến hết thời gian nuôi con dưới 12 tháng tuổi","Để đảm bảo quyền lợi cho người lao động đang mang thai và làm công việc nặng nhọc, độc hại, nguy hiểm, cần tuân thủ các quy định sau:
+
+1. Người sử dụng lao động không được sa thải hoặc đơn phương chấm dứt hợp đồng lao động đối với người lao động vì lý do mang thai, nuôi con dưới 12 tháng tuổi, trừ trường hợp đặc biệt như đã nêu trong điều 137 của Luật Lao động.
+
+2. Nếu công việc nặng nhọc, độc hại, nguy hiểm mà người lao động đang làm thuộc danh mục quy định tại Điều 142 của Luật Lao động, thì người sử dụng lao động phải cung cấp đầy đủ thông tin về tính chất nguy hiểm, nguy cơ và yêu cầu công việc để người lao động lựa chọn. Đồng thời, bảo đảm điều kiện an toàn, vệ sinh lao động cho người lao động theo quy định.
+
+3. Người lao động mang thai và làm công việc nặng nhọc, độc hại, nguy hiểm cần được chuyển sang làm công việc nhẹ hơn, an toàn hơn hoặc giảm bớt 01 giờ làm việc hằng ngày mà không bị cắt giảm tiền lương và quyền lợi cho đến hết thời gian nuôi con dưới 12 tháng tuổi (theo Điều 137 của Luật Lao động).
+
+4. Người lao động được nghỉ mỗi ngày 60 phút trong thời gian làm việc khi đang mang thai hoặc nuôi con dưới 12 tháng tuổi (theo Điều 139 của Luật Lao động).
+
+5. Trường hợp công việc nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành hoặc làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên, thời gian nghỉ việc hưởng chế độ thai sản được tính là thời gian làm nghề hoặc công việc nặng nhọc, độc hại, nguy hiểm (theo Điều 22 của Luật Lao động).
+
+Như vậy, cần phải đảm bảo người lao động mang thai và làm công việc nặng nhọc, độc hại, nguy hiểm được hưởng đầy đủ các quyền lợi theo quy định pháp luật.",0.2543809413909912,10.113739967346191,1.0,1.0,1.0,1.0,1.0,1.0,0.3333333333333333,0.2,0.0,0.37894736842105264,0.11080332409972297,0.108147614087175,0.102732878515831,0.22553897180762852,0.21630615640599002,0.22222222222222224,8.804878048780488,1.0
+257,Người sử dụng lao động phải cung cấp thông tin gì cho người lao động?,"Người sử dụng lao động phải cung cấp thông tin trung thực cho người lao động về công việc, địa điểm làm việc, điều kiện làm việc, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn, vệ sinh lao động, tiền lương, hình thức trả lương, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, quy định về bảo vệ bí mật kinh doanh, bảo vệ bí mật công nghệ và vấn đề khác liên quan trực tiếp đến việc giao kết hợp đồng lao động mà người lao động yêu cầu.","Người sử dụng lao động phải cung cấp thông tin trung thực cho người lao động về:
+
+- Công việc, địa điểm làm việc
+- Điều kiện làm việc 
+- Thời giờ làm việc và nghỉ ngơi
+- An toàn, vệ sinh lao động
+- Tiền lương và hình thức trả lương
+- Bảo hiểm xã hội, bảo hiểm y tế
+- Bảo hiểm thất nghiệp
+- Quy định về bảo vệ bí mật kinh doanh và công nghệ
+
+Theo Điều 16.0 của [LAO ĐỘNG].",0.23444247245788574,4.874500513076782,0.5,0.0,1.0,1.0,1.0,0.0,0.3333333333333333,0.2,0.0,0.8264462809917357,0.7132263007292873,0.6463483398816869,0.5197435461091713,0.860377358490566,0.7832699619771863,0.830188679245283,0.8854166666666666,1.0
+511,"Theo Bộ luật dân sự 2015, pháp nhân giải thể trong trường hợp nào?","Pháp nhân giải thể trong trường hợp sau đây:
+
+a) Theo quy định của điều lệ;
+
+b) Theo quyết định của cơ quan nhà nước có thẩm quyền;
+
+c) Hết thời hạn hoạt động được ghi trong điều lệ hoặc trong quyết định của cơ quan nhà nước có thẩm quyền;
+
+d) Trường hợp khác theo quy định của pháp luật.","Theo Điều 93.0 của [DÂN SỰ - Điều 93.0 - Điều 93. Giải thể pháp nhân], pháp nhân có thể giải thể trong các trường hợp sau đây:
+
+- Theo quy định của điều lệ;
+- Theo quyết định của cơ quan nhà nước có thẩm quyền;
+- Hết thời hạn hoạt động được ghi trong điều lệ hoặc trong quyết định của cơ quan nhà nước có thẩm quyền;
+- Trường hợp khác theo quy định của pháp luật.
+
+Điều 93.0, Khoản 1 quy định: ""Pháp nhân giải thể trong trường hợp sau đây: a) Theo quy định của điều lệ; b) Theo quyết định của cơ quan nhà nước có thẩm quyền; c) Hết thời hạn hoạt động được ghi trong điều lệ hoặc trong quyết định của cơ quan nhà nước có thẩm quyền; d) Trường hợp khác theo quy định của pháp luật.""
+
+Do đó, pháp nhân giải thể không chỉ dựa trên các trường hợp đã nêu mà còn cần tuân thủ các quy định cụ thể do cơ quan nhà nước có thẩm quyền ban hành.",0.14630866050720215,6.930697441101074,0.3333333333333333,0.0,1.0,1.0,1.0,0.0,0.3333333333333333,0.2,1.0,0.7474747474747475,0.33516483516483514,0.33332321438509444,0.32958800521410875,0.5084745762711864,0.5056818181818182,0.5084745762711864,2.9836065573770494,1.0

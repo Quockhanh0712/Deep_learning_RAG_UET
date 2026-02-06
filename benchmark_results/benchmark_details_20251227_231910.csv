@@ -1,0 +1,667 @@
+﻿idx,question,ground_truth,generated_answer,retrieval_time,generation_time,mrr,recall@1,recall@3,recall@5,recall@10,precision@1,precision@3,precision@5
+0,Chiếm đoạt di vật của tử sĩ có thể bị phạt tù lên đến bao nhiêu năm?,07 năm,,0.8356366157531738,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,"Theo Bộ luật Hình sự năm 2017, không áp dụng hình phạt tù chung thân đối với người dưới bao nhiêu tuổi phạm tội?",18 tuổi,,0.05827617645263672,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,"Theo Bộ luật Hình sự năm 2017, người từ đủ bao nhiêu tuổi phải chịu trách nhiệm hình sự về mọi tội phạm, trừ những tội phạm mà Bộ luật này có quy định khác?",16 tuổi,,0.06031155586242676,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,"Người phạm tội ít nghiêm trọng và có nhiều tình tiết giảm nhẹ, nhưng chưa đến mức miễn hình phạt thì được áp dụng mức hình phạt nào?",Cảnh cáo,,0.05110311508178711,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,"Trong trường hợp người bị kết án tử hình được ân giảm, thì hình phạt tử hình được chuyển thành hình phạt gì?",tù chung thân,,0.06476926803588867,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,"Thời hạn cấm cư trú là từ bao nhiêu đến bao nhiêu năm, kể từ ngày chấp hành xong hình phạt tù?",01 năm đến 05 năm,,0.053746700286865234,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,"Khi bị tịch thu tài sản, phần tài sản bị tịch thu của người bị kết án sẽ nộp vào đâu?",ngân sách nhà nước,,0.0628812313079834,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,Người chuẩn bị phạm tội phản bội Tổ quốc thì bị phạt tù từ bao nhiêu đến bao nhiêu năm?,từ 01 năm đến 05 năm,,0.062024593353271484,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,"Người đã nhận làm gián điệp, nhưng không thực hiện nhiệm vụ được giao và tự thú, thành khẩn khai báo với cơ quan nhà nước có thẩm quyền, thì được miễn trách nhiệm gì về tội gián điệp?",hình sự,,0.0509791374206543,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,"Người ngược đãi tù binh, hàng binh, thì bị phạt cải tạo không giam giữ đến bao nhiêu năm?",01 năm,,0.05878257751464844,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,"Người làm lính đánh thuê nhằm chống một quốc gia hoặc một vùng lãnh thổ độc lập, có chủ quyền, thì bị phạt tù từ bao nhiêu đến bao nhiêu năm?",từ 05 năm đến 15 năm,,0.054010629653930664,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,Người có trách nhiệm mà cố ý bỏ nhiều hơn 2 thương binh tại trận địa dẫn đến thương binh bị chết thì bị phạt tù từ bao nhiêu đến bao nhiêu năm?,từ 03 năm đến 10 năm,,0.02472829818725586,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,"Người không chấp hành nghiêm chỉnh chế độ trực ban, trực chiến, trực chỉ huy gây hậu quả rất nghiêm trọng hoặc đặc biệt nghiêm trọng, thì bị phạt tù từ bao nhiêu đến bao nhiêu năm?",từ 03 năm đến 10 năm,,0.03239727020263672,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,"Người tự gây thương tích, gây tổn hại cho sức khỏe của mình hoặc dùng thủ đoạn gian dối khác để trốn tránh nhiệm vụ, thì bị phạt cải tạo không giam giữ đến bao nhiêu năm?",02 năm,,0.025038480758666992,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,Người là sĩ quan đầu hàng địch thì bị phạt tù từ bao nhiêu đến bao nhiêu năm?,từ 07 năm đến 15 năm,,0.027240514755249023,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,"Người trong quan hệ công tác mà xúc phạm nghiêm trọng nhân phẩm, danh dự đồng đội, dẫn đến nạn nhân tự sát thì bị phạt tù từ bao nhiêu đến bao nhiêu năm?",từ 02 năm đến 05 năm,,0.028786420822143555,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,"Người đang bị tạm giữ, tạm giam, áp giải, xét xử hoặc chấp hành án phạt tù mà bỏ trốn, thì bị phạt tù từ bao lâu đến bao lâu?",từ 06 tháng đến 03 năm,,0.02630472183227539,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17,Người phạm tội lạm quyền trong khi thi hành công vụ còn bị cấm đảm nhiệm chức vụ nhất định từ bao nhiêu đến bao nhiêu năm?,từ 01 năm đến 05 năm,,0.02672433853149414,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,Người phạm tội lạm quyền trong khi thi hành công vụ còn có thể bị phạt tiền từ bao nhiêu đến bao nhiêu tiền?,từ 10.000.000 đồng đến 100.000.000 đồng,,0.02617359161376953,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19,"Người xuất cảnh, nhập cảnh trái phép hoặc ở lại Việt Nam trái phép, đã bị xử phạt vi phạm hành chính về hành vi này mà còn vi phạm, thì bị phạt tiền từ bao nhiêu đến bao nhiêu?",từ 5.000.000 đồng đến 50.000.000 đồng,,0.024240493774414062,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20,"Người xuất cảnh, nhập cảnh trái phép hoặc ở lại Việt Nam trái phép, đã bị xử phạt vi phạm hành chính về hành vi này mà còn vi phạm, thì bị phạt tù từ bao lâu đến bao lâu?",từ 06 tháng đến 03 năm,,0.03188729286193848,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21,"Người gây hư hại di tích lịch sử - văn hóa, danh lam, thắng cảnh có giá trị từ 500.000.000 đồng trở lên, thì bị phạt tù từ bao lâu đến bao lâu?",từ 03 năm đến 07 năm,,0.04166746139526367,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,Người phạm tội vi phạm các quy định về quản lý nhà ở còn có thể bị phạt tiền từ bao nhiêu đến bao nhiêu?,từ 5.000.000 đồng đến 50.000.000 đồng,,0.031397104263305664,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+23,"Người chiếm đoạt, mua bán hoặc tiêu hủy trái phép con dấu, tài liệu của cơ quan, tổ chức không thuộc tài liệu bí mật nhà nước hoặc bí mật công tác, thì bị phạt cải tạo không giam giữ đến bao lâu?",02 năm,,0.026625633239746094,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+24,"Người giả mạo chức vụ, cấp bậc, vị trí công tác thực hiện hành vi trái pháp luật nhưng không nhằm mục đích chiếm đoạt tài sản, thì bị phạt cải tạo không giam giữ đến bao lâu?",02 năm,,0.03536486625671387,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,"Người cố ý cản trở việc đăng ký nghĩa vụ quân sự, gọi nhập ngũ, gọi tập trung huấn luyện, thì bị phạt cảnh cáo, phạt cải tạo không giam giữ đến bao lâu?",02 năm,,0.047350168228149414,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,"Người phạm tội cản trở thực hiện nghĩa vụ quân sự trong thời chiến, thì bị phạt tù từ bao lâu đến bao lâu?",từ 02 năm đến 05 năm,,0.02214956283569336,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+27,"Người có nhiệm vụ, quyền hạn mà thực hiện việc đăng ký, cấp giấy tờ về hộ tịch trái pháp luật, đã bị xử lý kỷ luật về hành vi này mà còn vi phạm, thì bị phạt cảnh cáo, phạt cải tạo không giam giữ đến bao lâu?",03 năm,,0.03853583335876465,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28,"Người lợi dụng chức vụ, quyền hạn làm trái quy định về đăng ký nghĩa vụ quân sự, gọi nhập ngũ, gọi tập trung huấn luyện, thì bị phạt cải tạo không giam giữ đến bao lâu?",03 năm,,0.017661333084106445,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+29,"Người phạm tội trốn tránh nghĩa vụ quân sự trong thời chiến, thì bị phạt tù từ bao nhiêu năm đến bao nhiêu năm?",từ 01 đến 05 năm,,0.026531457901000977,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,"Người dùng vũ lực, đe dọa dùng vũ lực hoặc dùng thủ đoạn khác cản trở người thi hành công vụ thực hiện công vụ của họ, thì bị phạt cải tạo không giam giữ đến bao lâu?",03 năm,,0.030016422271728516,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31,"Theo Bộ luật Hình sự 2017, người đủ 18 tuổi trở lên mua dâm người dưới 18 tuổi trừ trường hợp quy định tại điểm b khoản 1 Điều 142 của Bộ luật này, thì bị phạt tù từ bao lâu đến bao lâu?",từ 01 năm đến 05 năm,,0.022131919860839844,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,"Theo Bộ luật Hình sự 2017, người phạm tội mua dâm người dưới 18 tuổi còn bị phạt tiền từ bao nhiêu đến bao nhiêu?",từ 10.000.000 đồng đến 50.000.000 đồng,,0.023113727569580078,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,"Người đánh bạc trái phép dưới bất kỳ hình thức nào được thua bằng tiền hay hiện vật trị giá từ 5.000.000 đồng đến dưới 50.000.000 đồng, thì bị phạt tiền từ bao nhiêu đến bao nhiêu?",từ 20.000.000 đồng đến 100.000.000 đồng,,0.03152322769165039,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+34,"Người đánh bạc trái phép dưới bất kỳ hình thức nào được thua bằng tiền hay hiện vật trị giá từ 5.000.000 đồng đến dưới 50.000.000 đồng, thì bị phạt cải tạo không giam giữ đến bao nhiêu năm?",03 năm,,0.03176426887512207,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+35,Người phạm tội đánh bạc còn có thể bị phạt tiền từ bao nhiêu đến bao nhiêu?,từ 10.000.000 đồng đến 50.000.000 đồng,,0.020246028900146484,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+36,"Người nào dùng bói toán, đồng bóng hoặc các hình thức mê tín, dị đoan khác đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì bị phạt cải tạo không giam giữ đến bao lâu?",03 năm,,0.039803504943847656,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+37,Người thực hiện việc phá thai trái phép cho người khác dẫn đến làm chết 03 người trở lên thì bị phạt tù từ bao lâu đến bao lâu?,từ 07 năm đến 15 năm,,0.01866626739501953,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+38,"Người trồng cây thuốc phiện với số lượng từ 500 cây đến dưới 3.000 cây, thì bị phạt tù từ bao lâu đến bao lâu?",từ 06 tháng đến 03 năm,,0.021564245223999023,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+39,Người trồng cây thuốc phiện với số lượng 3.000 cây trở lên thì bị phạt tù từ bao lâu đến bao lâu?,từ 03 năm đến 07 năm,,0.03666496276855469,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+40,Người trồng cây cần sa có tổ chức thì bị phạt tù từ bao lâu đến bao lâu?,từ 03 năm đến 07 năm,,0.022574186325073242,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+41,"Người phạm tội trồng cây thuốc phiện, cây côca, cây cần sa còn có thể bị phạt tiền từ bao nhiêu?",từ 5.000.000 đồng,,0.018161296844482422,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+42,Những hành vi tuy có dấu hiệu của tội phạm nhưng tính chất nguy hiểm cho xã hội không đáng kể thì có phải là tội phạm không?,không,,0.01906442642211914,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+43,Tội phạm là hành vi nguy hiểm cho xã hội được quy định trong Bộ luật nào?,Bộ luật Hình sự,,0.02147364616394043,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+44,"Căn cứ vào tính chất và mức độ nguy hiểm cho xã hội của hành vi phạm tội được quy định trong Bộ luật Hình sự, tội phạm được phân thành mấy loại?",04 loại,,0.03935098648071289,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+45,Tội phạm ít nghiêm trọng có mức cao nhất của khung hình phạt do Bộ luật Hình sự quy định đối với tội ấy là phạt tù đến mấy năm?,03 năm,,0.03156542778015137,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+46,"Theo Bộ luật Hình sự năm 2017, người từ đủ 14 tuổi đến dưới 16 tuổi phải chịu trách nhiệm hình sự về tội phạm rất nghiêm trọng, tội phạm đặc biệt nghiêm trọng quy định tại một trong các điều nào của Bộ luật này?","điều 123, 134, 141, 142, 143, 144, 150, 151, 168, 169, 170, 171, 173, 178, 248, 249, 250, 251, 252, 265, 266, 286, 287, 289, 290, 299, 303 và 304",,0.019890785217285156,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+47,"Người phạm tội trong tình trạng mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình do dùng chất gì, thì vẫn phải chịu trách nhiệm hình sự?","dùng rượu, bia hoặc chất kích thích mạnh khác",,0.024190902709960938,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+48,Người chuẩn bị phạm tội quy định tại một trong các điều nào của Bộ luật Hình sự thì phải chịu trách nhiệm hình sự?,"điều 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 123, 134, 168, 169, 207, 299, 300, 301, 302, 303 và 324",,0.0216982364654541,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+49,Người từ đủ 14 tuổi đến dưới 16 tuổi chuẩn bị phạm tội quy định tại điều nào của Bộ luật Hình sự thì phải chịu trách nhiệm hình sự?,"Điều 123, Điều 168",,0.02923130989074707,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+50,Người phạm tội chưa đạt phải chịu trách nhiệm hình sự về tội phạm nào?,tội phạm chưa đạt,,0.021177291870117188,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+51,Phạm tội chưa đạt là gì?,cố ý thực hiện tội phạm nhưng không thực hiện được đến cùng vì những nguyên nhân ngoài ý muốn của người phạm tội,,0.022886276245117188,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+52,Tự ý nửa chừng chấm dứt việc phạm tội là gì?,"tự mình không thực hiện tội phạm đến cùng, tuy không có gì ngăn cản",,0.018831729888916016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+53,Người tự ý nửa chừng chấm dứt việc phạm tội được miễn trách nhiệm hình sự về tội nào?,tội định phạm,,0.0196683406829834,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+54,Phạm tội có tổ chức là gì?,hình thức đồng phạm có sự câu kết chặt chẽ giữa những người cùng thực hiện tội phạm,,0.021776676177978516,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+55,Người thực hành là ai?,người trực tiếp thực hiện tội phạm,,0.020236492156982422,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+56,Người tổ chức là ai?,"người chủ mưu, cầm đầu, chỉ huy việc thực hiện tội phạm",,0.040708065032958984,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+57,Người đồng phạm bao gồm những ai?,"người tổ chức, người thực hành, người xúi giục, người giúp sức",,0.024018049240112305,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+58,Người xúi giục là ai?,"người kích động, dụ dỗ, thúc đẩy người khác thực hiện tội phạm",,0.024065494537353516,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+59,Người giúp sức là ai?,người tạo điều kiện tinh thần hoặc vật chất cho việc thực hiện tội phạm,,0.023798227310180664,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+60,Người đồng phạm không phải chịu trách nhiệm hình sự về hành vi vượt quá của ai?,người thực hành,,0.02352166175842285,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+61,"Người thực hiện hành vi gây hậu quả nguy hại cho xã hội trong trường hợp không thể thấy trước hoặc không buộc phải thấy trước hậu quả của hành vi đó, thì có phải chịu trách nhiệm hình sự không?",không,,0.025951623916625977,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+62,"Người thực hiện hành vi nguy hiểm cho xã hội trong khi đang mắc bệnh tâm thần, một bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình, thì có phải chịu trách nhiệm hình sự không?",không,,0.022424697875976562,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+63,Phòng vệ chính đáng có phải là tội phạm không?,không,,0.043248653411865234,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+64,Người có hành vi vượt quá giới hạn phòng vệ chính đáng phải chịu trách nhiệm gì theo quy định của Bộ luật Hình sự?,hình sự,,0.025881052017211914,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+65,Vượt quá giới hạn phòng vệ chính đáng là gì?,"hành vi chống trả rõ ràng quá mức cần thiết, không phù hợp với tính chất và mức độ nguy hiểm cho xã hội của hành vi xâm hại",,0.02347087860107422,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+66,Tình thế cấp thiết là gì?,"tình thế của người vì muốn tránh gây thiệt hại cho quyền, lợi ích hợp pháp của mình, của người khác hoặc lợi ích của Nhà nước, của cơ quan, tổ chức mà không còn cách nào khác là phải gây một thiệt hại nhỏ hơn thiệt hại cần ngăn ngừa.",,0.023359298706054688,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+67,Hành vi gây thiệt hại trong tình thế cấp thiết có phải là tội phạm không?,không,,0.021856069564819336,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+68,Người gây thiệt hại trong tình thế cấp thiết phải chịu trách nhiệm hình sự trong trường hợp nào?,Trong trường hợp thiệt hại gây ra rõ ràng vượt quá yêu cầu của tình thế cấp thiết,,0.022179365158081055,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+69,"Trong Bộ luật Hình sự năm 2017, thời hiệu truy cứu trách nhiệm hình sự là gì?",thời hạn do Bộ luật này quy định mà khi hết thời hạn đó thì người phạm tội không bị truy cứu trách nhiệm hình sự,,0.019921302795410156,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70,Thời hiệu truy cứu trách nhiệm hình sự được quy định bao nhiêu năm đối với tội phạm ít nghiêm trọng?,05 năm,,0.019774436950683594,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+71,Thời hiệu truy cứu trách nhiệm hình sự được quy định bao nhiêu năm đối với tội phạm nghiêm trọng?,10 năm,,0.026352882385253906,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+72,Thời hiệu truy cứu trách nhiệm hình sự được quy định bao nhiêu năm đối với tội phạm rất nghiêm trọng?,15 năm,,0.020058393478393555,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+73,Thời hiệu truy cứu trách nhiệm hình sự được quy định bao nhiêu năm đối với tội phạm đặc biệt nghiêm trọng?,20 năm,,0.04019021987915039,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+74,"Theo Bộ luật Hình sự 2017, hình phạt là gì?","là biện pháp cưỡng chế nghiêm khắc nhất của Nhà nước được quy định trong Bộ luật này, do Tòa án quyết định áp dụng đối với người hoặc pháp nhân thương mại phạm tội nhằm tước bỏ hoặc hạn chế quyền, lợi ích của người, pháp nhân thương mại đó.",,0.018034696578979492,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+75,"Theo Bộ luật Hình sự 2017, mục đích của hình phạt là gì?","Hình phạt không chỉ nhằm trừng trị người, pháp nhân thương mại phạm tội mà còn giáo dục họ ý thức tuân theo pháp luật và các quy tắc của cuộc sống, ngăn ngừa họ phạm tội mới; giáo dục người, pháp nhân thương mại khác tôn trọng pháp luật, phòng ngừa và đấu tranh chống tội phạm.",,0.04442143440246582,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+76,"Đối với mỗi tội phạm, người phạm tội chỉ bị áp dụng mấy hình phạt chính?",một,,0.023173093795776367,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+77,"Theo Bộ luật Hình sự năm 2017, cảnh cáo được áp dụng đối với người phạm tội như thế nào?","ít nghiêm trọng và có nhiều tình tiết giảm nhẹ, nhưng chưa đến mức miễn hình phạt",,0.039346933364868164,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+78,"Theo Bộ luật Hình sự năm 2017, trục xuất là gì?",buộc người nước ngoài bị kết án phải rời khỏi lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.,,0.027584552764892578,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+79,Nếu các bên không thoả thuận về chất lượng tài sản mua bán thì chất lượng tài sản được xác định như thế nào?,"xác định theo tiêu chuẩn về chất lượng của tài sản đã được công bố, quy định của cơ quan nhà nước có thẩm quyền hoặc theo tiêu chuẩn ngành nghề",,0.027646303176879883,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+80,Giá tài sản được xác định như thế nào nếu không có thoả thuận rõ ràng về giá?,xác định theo giá thị trường,,0.024541139602661133,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+81,Nếu hai bên không có thoả thuận về phương thức thanh toán thì phương thức thanh toán được xác định như thế nào?,phương thức thanh toán được xác định theo tập quán tại địa điểm và thời điểm giao kết hợp đồng,,0.0391232967376709,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+82,Nếu hai bên không xác định rõ ràng thời gian thanh toán thì bên mua cần thanh toán lúc nào?,ngay tại thời điểm nhận tài sản mua hoặc nhận giấy tờ chứng nhận quyền sở hữu tài sản,,0.03096175193786621,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+83,Bên mua có quyền gì khi bên bán giao số lượng tài sản nhiều hơn đã thoả thuận?,quyền nhận hoặc không nhận phần dôi ra,,0.028646469116210938,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+84,Bên mua được trả lãi như thế nào nếu bên mua đã trả tiền nhưng vật không được giao đồng bộ?,"trả lãi đối với số tiền đã trả theo lãi suất thỏa thuận giữa các bên nhưng không được vượt quá mức lãi suất được quy định tại khoản 1 Điều 468 của Bộ luật này; nếu không có thỏa thuận thì thực hiện theo quy định tại khoản 2 Điều 468 của Bộ luật này và yêu cầu bên bán bồi thường thiệt hại do giao vật không đồng bộ, kể từ thời điểm phải thực hiện hợp đồng cho đến khi vật được giao đồng bộ",,0.017200946807861328,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+85,Nếu bên bán và bên mua chỉ thoả thuận về thời hạn giao tài sản thì thời hạn thanh toán tiền được xác định như thế nào?,xác định tương ứng với thời hạn giao tài sản,,0.02333521842956543,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+86,Bên mua cần thanh toán tiền lúc nào trong trường hợp các bên không có thoả thuận về thời gian giao tài sản và thời hạn thanh toán?,tại thời điểm nhận tài sản,,0.018981456756591797,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+87,Bên mua chịu rủi ro từ thời điểm nào khi tài sản trong hợp đồng mua bán phải đăng ký quyền sở hữu theo quy định của pháp luật?,kể từ thời điểm hoàn thành thủ tục đăng ký,,0.02184748649597168,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+88,Thời điểm chịu rủi ro của bên bán như thế nào nếu tài sản trong hợp đồng mua bán phải đăng ký quyền sở hữu theo quy định của pháp luật?,cho đến khi hoàn thành thủ tục đăng ký,,0.028373003005981445,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+89,Chi phí vận chuyển và chi phí liên quan đến việc chuyển quyền sở hữu được xác định như thế nào khi các bên không có thoả thuận rõ ràng?,"xác định theo chi phí đã được công bố, quy định của cơ quan có thẩm quyền hoặc theo tiêu chuẩn ngành nghề",,0.015906572341918945,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+90,Bên mua có quyền gì nếu tài sản mua bán bị người thứ ba tranh chấp do có quyền sở hữu một phần tài sản đó?,quyền hủy bỏ hợp đồng và yêu cầu bên bán bồi thường thiệt hại,,0.044147491455078125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+91,Trong thời hạn bảo hành bên mua có quyền gì nếu bên bán không thể sửa chữa được vật có khuyết tật về kỹ thuật?,"quyền yêu cầu giảm giá, đổi vật có khuyết tật lấy vật khác hoặc trả lại vật và lấy lại tiền",,0.03325200080871582,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+92,Trong thời hạn bảo hành bên bán không phải bồi thường thiệt hại khi nào?,nếu chứng minh được thiệt hại xảy ra do lỗi của bên mua,,0.027265310287475586,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+93,Đối với mua bán quyền tài sản thì thời điểm chuyển quyền sở hữu là khi nào?,"thời điểm bên mua nhận được giấy tờ về quyền sở hữu đối với quyền tài sản đó hoặc từ thời điểm đăng ký việc chuyển quyền sở hữu, nếu pháp luật có quy định",,0.017024993896484375,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+94,Trong thời gian dùng thử vật mua thuộc sở hữu của bên nào?,bên bán,,0.04225635528564453,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+95,Hợp đồng trao đổi tài sản là gì?,"sự thỏa thuận giữa các bên, theo đó các bên giao tài sản và chuyển quyền sở hữu đối với tài sản cho nhau",,0.0302431583404541,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+96,Hợp đồng tặng cho bất động sản có hiệu lực khi nào nếu bất động sản không phải đăng ký quyền sở hữu?,kể từ thời điểm chuyển giao tài sản,,0.01575636863708496,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+97,Bên vay có nghĩa vụ gì nếu không thể trả vật cùng loại đúng số lượng chất lượng?,"có thể trả bằng tiền theo trị giá của vật đã vay tại địa điểm và thời điểm trả nợ, nếu được bên cho vay đồng ý",,0.016791105270385742,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+98,Nếu các bên không có thoả thuận về thời hạn trả tiền thuê và không thể xác định được thời hạn theo tập quán nơi trả tiền thì khi nào bên thuê cần trả tiền?,khi trả lại tài sản thuê,,0.03034186363220215,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+99,Bên cho thuê có quyền gì nếu bên thuê chậm trả tài sản thuê?,"quyền yêu cầu bên thuê trả lại tài sản thuê, trả tiền thuê trong thời gian chậm trả và phải bồi thường thiệt hại",,0.015206098556518555,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+100,Tài sản chung của các thành viên hợp tác là gì?,"tài sản do các thành viên đóng góp, cùng tạo lập và tài sản khác theo quy định của pháp luật",,0.018721342086791992,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+101,Thành viên rút khỏi hợp đồng hợp tác có quyền gì?,"quyền yêu cầu nhận lại tài sản đã đóng góp, được chia phần tài sản trong khối tài sản chung và phải thanh toán các nghĩa vụ theo thỏa thuận",,0.02167654037475586,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+102,Bên sử dụng dịch vụ có quyền gì khi dịch vụ cung ứng không đạt được như thoả thuận?,quyền giảm tiền dịch vụ và yêu cầu bồi thường thiệt hại,,0.019203662872314453,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+103,Bên cung ứng dịch vụ có quyền gì nếu bên sử dụng dịch vụ vi phạm nghiêm trọng nghĩa vụ thoả thuận trong hợp đồng?,quyền đơn phương chấm dứt thực hiện hợp đồng và yêu cầu bồi thường thiệt hại,,0.04138016700744629,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+104,Bên thuê vận chuyển có trách nhiệm gì nếu giao tài sản không đúng thời hạn như thoả thuận?,thanh toán chi phí chờ đợi và tiền vận chuyển tài sản đến địa điểm đã thỏa thuận trong hợp đồng cho bên vận chuyển,,0.03031635284423828,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+105,Bên nhận gia công có trách nhiệm gì khi chậm giao sản phẩm mà có rủi ro đối với sản phẩm?,bồi thường thiệt hại xảy ra cho bên đặt gia công,,0.0296628475189209,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+106,Mức tiền công được xác định như nào khi các bên không có thoả thuận về mức tiền?,áp dụng mức tiền công trung bình đối với việc tạo ra sản phẩm cùng loại tại địa điểm gia công và vào thời điểm trả tiền,,0.018802404403686523,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+107,Trả thưởng như thế nào nếu nhiều người cùng cộng tác để hoàn thành công việc được hứa thưởng?,mỗi người được nhận một phần của phần thưởng tương ứng với phần đóng góp của mình,,0.023291587829589844,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+108,"Nghĩa vụ của người chiếm hữu, người sử dụng tài sản, người được hưởng lợi về tài sản mà không có căn cứ pháp luật và không ngay tình?","hoàn trả hoa lợi, lợi tức thu được từ thời điểm chiếm hữu, sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật",,0.024456024169921875,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+109,Thời hiệu yêu cầu bồi thường thiệt hại là bao lâu?,"03 năm, kể từ ngày người có quyền yêu cầu biết hoặc phải biết quyền, lợi ích hợp pháp của mình bị xâm phạm",,0.026157855987548828,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+110,Có phải bồi thường cho người bị thiệt hại khi phòng vệ chính đáng không?,không,,0.027059555053710938,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+111,Bên gây thiệt hại phải bồi thường như thế nào khi người bị thiệt hại mất hoàn toàn khả năng lao động?,"người bị thiệt hại được hưởng bồi thường từ thời điểm mất hoàn toàn khả năng lao động cho đến khi chết, trừ trường hợp có thỏa thuận khác",,0.02802443504333496,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+112,Ai là người quản lý di sản khi di chúc không chỉ định người quản lý di sản?,"người đang chiếm hữu, sử dụng, quản lý di sản",,0.01907515525817871,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+113,Từ chối nhận di sản cần được thực hiện khi nào?,trước thời điểm phân chia di sản,,0.03241229057312012,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+114,Thời hiệu khởi kiện về thừa kế tài sản là bất động sản như thế nào?,"30 năm đối với bất động sản, 10 năm đối với động sản, kể từ thời điểm mở thừa kế",,0.015689611434936523,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+115,Di chúc của người không biết chữ như thế nào là hợp pháp?,phải được người làm chứng lập thành văn bản và có công chứng hoặc chứng thực,,0.02199244499206543,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+116,Di chúc của công dân Việt Nam đang ở nước ngoài cần điều kiện gì để có giá trị như di chúc được công chứng?,"có chứng nhận của cơ quan lãnh sự, đại diện ngoại giao Việt Nam ở nước đó",,0.017768144607543945,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+117,Phần bổ sung mâu thuẫn với một phần của di chúc đã lập thì phần nào có hiệu lực?,phần bổ sung,,0.03652787208557129,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+118,Đã tiến hành chia di sản mà tìm lại được di chúc thất lạc thì chia như thế nào?,chia lại theo di chúc nếu người thừa kế theo di chúc yêu cầu,,0.01837611198425293,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+119,Di chúc có hiệu lực khi nào?,từ thời điểm mở thừa kế,,0.042739152908325195,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+120,Có được chia thừa kế di sản cho việc thờ cúng không?,không,,0.015619754791259766,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+121,Ai công bố di chúc nếu di chúc bằng văn bản được lưu tại tổ chức hành nghề công chứng?,công chứng viên,,0.017305850982666016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+122,Di chúc không xác định rõ từng phần của từng người thừa kế thì chia thế nào?,"di sản được chia đều cho những người được chỉ định trong di chúc, trừ trường hợp có thỏa thuận khác",,0.02790522575378418,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+123,Người cai thầu hoặc người có vai trò trung gian tương tự thì người sử dụng lao động là chủ chính phải có những gì của người lao động?,danh sách và địa chỉ của những người này kèm theo danh sách những người lao động làm việc với họ,,0.03003239631652832,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+124,Ai là người chiu trách nhiệm khi người lao động không được trả lương?,người sử dụng lao động là chủ chính,,0.018149375915527344,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+125,Người lao động được tạm tứng tiền và không bị tính lãi theo điều kiện nào?,do hai bên thỏa thuận,,0.029726743698120117,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+126,Người lao động được tạm ứng tối đa là bao nhiêu?,không quá 01 tháng tiền lương,,0.029216289520263672,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+127,Người lao động trong điều kiện nào thì không được tạm ứng tiền lương?,Người lao động nhập ngũ theo quy định của Luật Nghĩa vụ quân sự,,0.02370929718017578,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+128,Người sử dụng lao động chỉ được khấu trừ tiền lương của người lao động trong trường hợp nào?,"bồi thường thiệt hại do làm hư hỏng dụng cụ, thiết bị, tài sản của người sử dụng lao động",,0.024407625198364258,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+129,Mức khấu trừ tối đa là bao nhiêu?,không được quá 30% tiền lương thực trả hằng tháng của người lao động,,0.04600787162780762,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+130,"Chế độ nâng lương, nâng bậc, phụ cấp, trợ cấp được quy định ở đâu?","rong hợp đồng lao động, thỏa ước lao động tập thể hoặc quy định của người sử dụng lao động",,0.016050338745117188,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+131,Thưởng cho người lao động dựa vào điệu kiện gì?,"căn cứ vào kết quả sản xuất, kinh doanh, mức độ hoàn thành công việc của người lao động",,0.015041828155517578,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+132,Thời gian làm việc bình thường trong một ngày là bao nhiêu giờ?,10 giờ,,0.019138813018798828,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+133,Giờ làm thêm không quá bao nhiêu phần trăm so với giờ làm việc bình thường trong 1 ngày?,50%,,0.04139542579650879,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+134,Giờ làm thêm không quá bao nhiêu giờ trừ những trường hợp trong khoảng 3 điều 107 bộ luật lao động.,không quá 200 giờ trong 01 năm,,0.030263423919677734,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+135,"Sau khi tổ chức làm thêm giờ, người sử dụng lao động phải làm gì?",thông báo bằng văn bản cho cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh,,0.01826024055480957,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+136,Người lao dộng làm việc từ 6 giờ trở lên vào ban ngày thì được nghỉ ít nhất trong bao lâu?,ít nhất 30 phút liên tục,,0.024695634841918945,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+137,Nếu người lao động làm việc theo ca liên tục từ 06 giờ trở lên thì thời gian nghỉ sẽ được tính như thế nào?,được tính vào giờ làm việc,,0.01813054084777832,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+138,Trong trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần thì người sử dụng lao động phải bố trí ngày nghỉ ra sao?,01 tháng ít nhất 04 ngày,,0.019553422927856445,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+139,"Nếu ngày nghỉ hằng tuần trùng với ngày nghỉ lễ, tết thì người lao động sẽ được nghỉ như thế nào?",ược nghỉ bù ngày nghỉ hằng tuần vào ngày làm việc kế tiếp,,0.018732786178588867,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+140,Đôi với người lao động trong đièu kiện bình thường thì được nghỉ bao lâu 1 năm?,12 ngày,,0.01869511604309082,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+141,Đối với người làm việc trong môi trường độc hại thì hằng năm được nghỉ bao nhiêu ngày?,16 ngày,,0.0191495418548584,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+142,Người lao động làm việc chưa được 12 tháng thì sẽ được nghỉ hằng năm bao nhiêu ngày?,theo tỷ lệ tương ứng với số tháng làm việc,,0.016202211380004883,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+143,Người lao động có thể thỏa thuận nghỉ hằng năm như thế nào?,nghỉ hằng năm thành nhiều lần hoặc nghỉ gộp tối đa 03 năm một lần,,0.03466081619262695,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+144,Khi người lao động kết hôn thì sẽ được nghỉ có lương bao nhiêu ngày?,03 ngày,,0.0177154541015625,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+145,Trong trường hợp anh chị chết thì người lao động được hưởng nghỉ có lương bao nhiêu ngày?,01 ngày,,0.018809080123901367,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+146,Người sử dụng lao  phải đăng ký nội quy lao động đối khi có bao nhiêu lao động?,10 người,,0.020292997360229492,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+147,Cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh làm gì khi phát hiện sai phạm trong hồ sơ đăng ký nội quy lao động được nộp trong vòng 7 ngày?,"thông báo, hướng dẫn người sử dụng lao động sửa đổi, bổ sung và đăng ký lại",,0.023244142532348633,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+148,Sau bao lâu thì nội quy lao động có hiệu lực sau khi cơ quan nhà nước có thẩm quyền nhận đầy đủ hồ sơ đăng ký?,15 ngày,,0.043908119201660156,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+149,Đối với người lao động dưới 15 tuổi thì cần có ai tham gia khi bị kỷ luật?,người đại diện theo pháp luật,,0.029996156692504883,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+150,Không được kỷ luật đối với người mắc bệnh gì?,bệnh tâm thần hoặc một bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình,,0.018288135528564453,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+151,"Trong trường hợp vi phạm nhiều lần và ảnh hướng đến tài chính của người sử dụng lạo động, thời hiệu xử lý kỹ luật là bao lâu?",12 tháng,,0.026856184005737305,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+152,Người lao động sẽ bị sả thải nếu bỏ việc bao nhiêu ngày cộng dồn trong vòng 30 ngày mà không có lý do chính đáng?,05 ngày,,0.01764965057373047,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+153,"Trong thời gian bị đình chỉ công việc, người lao động được tạm ứng bao nhiêu phần trăm tiền lương trước khi bị đình chỉ công việc?",50%,,0.022382259368896484,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+154,Nếu người lao động gây thiệt hại không quá 10 tháng lương tối thiểu thi phải bồi thường bao nhiêu?,03 tháng tiền lương và bị khấu trừ hằng tháng vào lương,,0.020578622817993164,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+155,Người lao động không phải bồi thường trong trường hợp nào?,"trường hợp do thiên tai, hỏa hoạn, địch họa, dịch bệnh nguy hiểm, thảm họa, sự kiện xảy ra khách quan không thể lường trước được và không thể khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép",,0.030740976333618164,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+156,Cần đảm bảo điều gì cho người lao động nữ tại nơi làm việc?,buồng tắm và buồng vệ sinh phù hợp,,0.015538930892944336,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+157,"Không được sử dụng lao động nữ khi họ mang thang từ tháng thứ bao nhiêu trong trường hợp làm việc ban đêm, làm thêm giờ và đi công tác xa ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo?",từ tháng thứ 06,,0.032099246978759766,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+158,"Cần phải làm gì đối với lao động đang mang thai và đang làm công việc nặng nhọc, độc hại, nguy hiểm?","chuyển sang làm công việc nhẹ hơn, an toàn hơn hoặc giảm bớt 01 giờ làm việc hằng ngày mà không bị cắt giảm tiền lương và quyền, lợi ích cho đến hết thời gian nuôi con dưới 12 tháng tuổi",,0.015739917755126953,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+159,Trong trường hợp hợp đồng lao động hết hạn trong thời gian lao động nữ mang thai hoặc nuôi con dưới 12 tháng tuổi thì người sử dụng lao động phải ưu tiên làm gì?,giao kết hợp đồng lao động mới,,0.030205488204956055,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+160,Lao động nữ có thể đơn phương chấm dứt hợp đồng trong trường hợp nào?,"có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền về việc tiếp tục làm việc sẽ ảnh hưởng xấu tới thai nhi",,0.03156781196594238,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+161,"Khi có chỉ định của cơ sở khám bênh, người lao động nữ có thẻ tạm hõa thực hiện hợp đồng lao động trong bao lâu?","tối thiểu phải bằng thời gian do cơ sở khám bệnh, chữa bệnh có thẩm quyền chỉ định tạm nghỉ",,0.029913663864135742,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+162,Người lao động nữ chỉ được phép đi làm trở lại sớm sau khi nghỉ thai sản trong điều kiện nào?,"được người sử dụng lao động đồng ý và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền về việc đi làm sớm không có hại cho sức khỏe của người lao động",,0.03202056884765625,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+163,"Hợp đồng hoặc hành vi pháp lý đơn phương làm phát sinh, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự được gọi là gì?",Giao dịch dân sự,,0.014844417572021484,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+164,Giao dịch dân sự thông qua phương tiện điện tử dưới hình thức thông điệp dữ liệu theo quy định của pháp luật về giao dịch điện tử được coi là hình thức giao dịch dân sự nào?,giao dịch bằng văn bản,,0.03290224075317383,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+165,"Trừ trường hợp Bộ luật dân sự 2015 có quy định khác, giao dịch dân sự không có một trong các điều kiện được quy định tại điều nào của Bộ luật này thì vô hiệu?",Điều 117,,0.013633966445922852,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+166,"Kể từ ngày được quy định tại các điểm từ a đến đ khoản 1 Điều 132 của bộ luật Dân sự 2015, thời hiệu yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu quy định tại các Điều 125, 126, 127, 128 và 129 của Bộ luật này là bao lâu?",02 năm,,0.031125783920288086,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+167,Hết thời hiệu quy định tại khoản 1 Điều 132 bộ luật Dân sự 2015 thì giao dịch dân sự có hiệu lực trong trường hợp nào?,không có yêu cầu tuyên bố giao dịch dân sự vô hiệu,,0.0185544490814209,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+168,Đối với giao dịch dân sự quy định tại Điều nào của Bộ luật dân sự 2015 thì thời hiệu yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu không bị hạn chế?,Điều 123 và Điều 124,,0.028794288635253906,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+169,"Việc cá nhân, pháp nhân nhân danh và vì lợi ích của cá nhân hoặc pháp nhân khác xác lập, thực hiện giao dịch dân sự được gọi là gì?",Đại diện,,0.03104686737060547,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+170,Đại diện theo pháp luật của người con chưa thành niên là ai?,"Cha, mẹ",,0.03088831901550293,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+171,"Đại diện theo pháp luật của người con chưa thành niên có khó khăn trong nhận thức, làm chủ hành vi là ai?","Cha, mẹ",,0.014861822128295898,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+172,"Đại diện theo pháp luật của người con đã thành niên có khó khăn trong nhận thức, làm chủ hành vi là ai?",Người do Tòa án chỉ định,,0.015583038330078125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+173,"Theo luật về thời hạn, thời điểm tính thời hạn, khi khoảng thời gian diễn ra không liền nhau, một năm được tính là?",ba trăm sáu mươi lăm ngày,,0.014685392379760742,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+174,"Theo luật về thời hạn, thời điểm tính thời hạn, khi khoảng thời gian diễn ra không liền nhau, nửa năm được tính là?",sáu tháng,,0.03177332878112793,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+175,"Theo luật về thời hạn, thời điểm tính thời hạn, khi khoảng thời gian diễn ra không liền nhau, một tháng được tính là?",ba mươi ngày,,0.01562666893005371,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+176,"Theo luật về thời hạn, thời điểm tính thời hạn, khi khoảng thời gian diễn ra không liền nhau, nửa tháng được tính là?",mười lăm ngày,,0.01568126678466797,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+177,"Theo luật về thời hạn, thời điểm tính thời hạn, khi khoảng thời gian diễn ra không liền nhau, một tuần được tính là?",bảy ngày,,0.030026912689208984,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+178,"Theo luật về thời hạn, thời điểm tính thời hạn, khi khoảng thời gian diễn ra không liền nhau, một ngày được tính là?",hai mươi tư giờ,,0.03156614303588867,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+179,"Theo luật về thời hạn, thời điểm tính thời hạn, khi khoảng thời gian diễn ra không liền nhau, một giờ được tính là?",sáu mươi phút,,0.02987980842590332,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+180,"Theo luật về thời hạn, thời điểm tính thời hạn, khi khoảng thời gian diễn ra không liền nhau, một phút được tính là?",sáu mươi giây,,0.013548135757446289,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+181,"Theo luật về thời hạn, khi thời hạn bắt đầu bằng một sự kiện thì thời hạn được tính từ ngày nào?",ngày tiếp theo liền kề của ngày xảy ra sự kiện đó,,0.03280925750732422,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+182,"Quyền sở hữu bao gồm quyền chiếm hữu, quyền sử dụng và quyền nào của chủ sở hữu theo quy định của luật?",quyền định đoạt tài sản,,0.03163027763366699,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+183,"Quyền sở hữu bao gồm quyền chiếm hữu, quyền định đoạt tài sản và quyền nào của chủ sở hữu theo quy định của luật?",quyền sử dụng,,0.014616012573242188,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+184,"Quyền sở hữu bao gồm quyền sử dụng, quyền định đoạt tài sản và quyền nào của chủ sở hữu theo quy định của luật?",quyền chiếm hữu,,0.01653885841369629,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+185,"Quyền khác đối với tài sản bao gồm quyền hưởng dụng, quyền bề mặt và quyền nào?",Quyền đối với bất động sản liền kề,,0.031167030334472656,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+186,"Quyền khác đối với tài sản bao gồm quyền đối với bất động sản liền kề, quyền bề mặt và quyền nào?",Quyền hưởng dụng,,0.029964685440063477,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+187,"Quyền khác đối với tài sản bao gồm quyền đối với bất động sản liền kề, quyền hưởng dụng, và quyền nào.",Quyền bề mặt,,0.03072524070739746,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+188,Ranh giới giữa các bất động sản có thể được xác định theo ranh giới đã tồn tại bao lâu mà không có tranh chấp?,từ 30 năm trở lên,,0.014797449111938477,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+189,"Việc chủ thể nắm giữ, chi phối tài sản một cách trực tiếp hoặc gián tiếp như chủ thể có quyền đối với tài sản được gọi là gì?",Chiếm hữu,,0.030686616897583008,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+190,Việc chiếm hữu mà người chiếm hữu có căn cứ để tin rằng mình có quyền đối với tài sản đang chiếm hữu được gọi là gì?,Chiếm hữu ngay tình,,0.02982044219970703,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+191,Việc chiếm hữu mà người chiếm hữu biết hoặc phải biết rằng mình không có quyền đối với tài sản đang chiếm hữu được gọi là gì?,Chiếm hữu không ngay tình,,0.03054976463317871,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+192,Người chiếm hữu ngay tình hay người chiếm hữu không ngay tình thì phải chứng minh?,người chiếm hữu không ngay tình,,0.03134274482727051,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+193,Khi chủ sở hữu giao tài sản cho người khác thông qua giao dịch dân sự mà nội dung không bao gồm việc chuyển quyền sở hữu thì người được giao tài sản phải thực hiện việc chiếm hữu tài sản đó như thế nào?,"phù hợp với mục đích, nội dung của giao dịch",,0.03138136863708496,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+194,"Việc định đoạt tài sản phải do 
+chủ thể nào thực hiện?",người có năng lực hành vi dân sự,,0.01632857322692871,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+195,Quyền định đoạt bị hạn chế trong trường hợp nào?,do luật quy định,,0.03042888641357422,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+196,Chủ thể nào được ưu tiên mua tài sản đem bán là tài sản thuộc di tích lịch sử - văn hoá?,Nhà nước,,0.015534639358520508,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+197,"Đất đai, tài nguyên nước, tài nguyên khoáng sản, nguồn lợi ở vùng biển, vùng trời, tài nguyên thiên nhiên khác và các tài sản do Nhà nước đầu tư, quản lý thuộc loại tài sản nào?",tài sản công thuộc sở hữu toàn dân,,0.018342018127441406,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+198,Sở hữu của một cá nhân đối với tài sản thuộc loại hình sở hữu nào?,Sở hữu riêng,,0.01634049415588379,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+199,Sở hữu của một pháp nhân đối với tài sản thuộc loại hình sở hữu nào?,Sở hữu riêng,,0.024680614471435547,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+200,Sở hữu của nhiều chủ thể đối với tài sản thuộc loại hình sở hữu nào?,Sở hữu chung,,0.029149770736694336,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+201,"Cùng với quy định của pháp luật hoặc tập quán, quyển sở hữu chung có thể được xác lập theo căn cứ nào?",theo thỏa thuận,,0.030870676040649414,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+202,"Cùng với quy định của pháp luật hoặc theo thỏa thuận, quyển sở hữu chung có thể được xác lập theo căn cứ nào?",theo tập quán,,0.0168306827545166,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+203,Chủ thể nào có quyền ưu tiên mua tài sản thuộc sở hữu chung từ một chủ sở hữu chung?,chủ sở hữu chung khác,,0.013152122497558594,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+204,Quyền ưu tiên mua tài sản thuộc sở hữu chung của các chủ sở hữu chung đối với bất động sản kéo dài bao lâu?,03 tháng,,0.014293193817138672,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+205,Quyền ưu tiên mua tài sản thuộc sở hữu chung của các chủ sở hữu chung đối với động sản kéo dài bao lâu?,01 tháng,,0.031070232391357422,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+206,Trường hợp một trong các chủ sở hữu chung đối với bất động sản từ bỏ phần quyền sở hữu của mình thì phần quyền sở hữu đó thuộc về chủ thể nào nếu tài sản đó không phải là sở hữu chung của cộng đồng?,Nhà nước,,0.03090071678161621,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+207,Trường hợp một trong các chủ sở hữu chung đối với bất động sản từ bỏ phần quyền sở hữu của mình thì phần quyền sở hữu đó thuộc về chủ thể nào nếu tài sản đó là sở hữu chung của cộng đồng?,các chủ sở hữu còn lại,,0.014681339263916016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+208,Trường hợp một trong các chủ sở hữu chung đối với bất động sản chết mà không có người thừa kế thì phần quyền sở hữu đó thuộc về chủ thể nào nếu tài sản đó không phải là sở hữu chung của cộng đồng?,Nhà nước,,0.03226923942565918,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+209,Trường hợp một trong các chủ sở hữu chung đối với bất động sản chết mà không có người thừa kế thì phần quyền sở hữu đó thuộc về chủ thể nào nếu tài sản đó là sở hữu chung của cộng đồng?,các chủ sở hữu còn lại,,0.031043291091918945,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+210,Trường hợp một trong các chủ sở hữu chung đối với động sản từ bỏ phần quyền sở hữu của mình thì phần quyền sở hữu đó thuộc về chủ thể nào?,các chủ sở hữu còn lại,,0.029633045196533203,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+211,Trường hợp một trong các chủ sở hữu chung đối với động sản chết mà không có người thừa kế thì phần quyền sở hữu đó thuộc về chủ thể nào?,các chủ sở hữu còn lại,,0.03074193000793457,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+212,Người lao động hợp pháp có quyền sở hữu đối với tài sản có được từ lao động kể từ thời điểm nào?,thời điểm có được tài sản đó,,0.01442265510559082,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+213,Người tiến hành hoạt động sản xuất hợp pháp có quyền sở hữu đối với tài sản có được từ hoạt động sản xuất hợp pháp kể từ thời điểm nào?,thời điểm có được tài sản đó,,0.03260183334350586,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+214,Người tiến hành hoạt động kinh doanh hợp pháp có quyền sở hữu đối với tài sản có được từ hoạt động kinh doanh hợp pháp kể từ thời điểm nào?,thời điểm có được tài sản đó,,0.015219688415527344,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+215,"Chủ sở hữu tài sản có quyền sở hữu đối với hoa lợi, lợi tức theo quy định của pháp luật, kể từ thời điểm 
+nào?","thời điểm thu được hoa lợi, lợi tức đó",,0.029576778411865234,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+216,"Người sử dụng tài sản có quyền sở hữu đối với hoa lợi, lợi tức theo quy định của pháp luật, kể từ thời điểm nào?","thời điểm thu được hoa lợi, lợi tức đó",,0.01538991928100586,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+217,"Chủ sở hữu tài sản có quyền sở hữu đối với hoa lợi, lợi tức theo thỏa thuận kể từ thời điểm 
+nào?","thời điểm thu được hoa lợi, lợi tức đó",,0.02865123748779297,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+218,"Người sử dụng tài sản có quyền sở hữu đối với hoa lợi, lợi tức theo thỏa thuận kể từ thời điểm nào?","thời điểm thu được hoa lợi, lợi tức đó",,0.020143985748291016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+219,Tài sản mà chủ sở hữu đã từ bỏ quyền sở hữu đối với tài sản đó được gọi là gì?,Tài sản vô chủ,,0.015798091888427734,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+220,Quyển sở hữu của bất động sản là tài sản vô chủ thuộc về chủ thể nào?,Nhà nước,,0.024756669998168945,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+221,Người phát hiện động sản vô chủ có thể trở thành chủ sở hữu sau bao lâu kể từ ngày thông báo công khai mà không xác định được chủ sở hữu?,01 năm,,0.016984939575195312,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+222,Kể từ ngày thông báo công khai mà không xác định được chủ sở hữu của bất động sản thì sau bao lâu bất động sản đó thuộc về Nhà nước?,05 năm,,0.015917301177978516,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+223,"Người phát hiện tài sản bị chôn, giấu, bị vùi lấp, chìm đắm mà biết ai là chủ sở hữu thì phải làm gì?",phải thông báo hoặc trả lại ngay cho chủ sở hữu,,0.028947114944458008,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+224,"Người phát hiện tài sản bị chôn, giấu, bị vùi lấp, chìm đắm mà không biết ai là chủ sở hữu thì phải làm gì?",phải thông báo hoặc giao nộp cho Ủy ban nhân dân cấp xã hoặc công an cấp xã nơi gần nhất hoặc cơ quan nhà nước có thẩm quyền khác theo quy định của pháp luật,,0.01782536506652832,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+225,Tài sản vô chủ bị chôn giấu là tài sản thuộc di tích lịch sử - văn hóa theo quy định của Luật di sản văn hóa thì quyển sở hữu thuộc về chủ thể nào?,Nhà nước,,0.027448654174804688,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+226,Tài sản vô chủ bị chôn giấu là tài sản thuộc di tích lịch sử - văn hóa theo quy định của Luật di sản văn hóa mà có giá trị nhỏ hơn hoặc bằng mười lần mức lương cơ sở do Nhà nước quy định thì thuộc quyền sở hữu của chủ thể nào?,Nhà nước,,0.017219066619873047,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+227,Tài sản vô chủ bị chôn giấu không là tài sản thuộc di tích lịch sử - văn hóa theo quy định của Luật di sản văn hóa mà có giá trị nhỏ hơn hoặc bằng mười lần mức lương cơ sở do Nhà nước quy định thì thuộc quyền sở hữu của chủ thể nào?,người tìm thấy,,0.017256498336791992,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+228,"Người phát hiện tài sản do người khác đánh rơi, bỏ quên mà biết được địa chỉ của người đánh rơi hoặc bỏ quên thì phải làm gì?",phải thông báo hoặc trả lại tài sản cho người đó,,0.025794506072998047,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+229,"Người phát hiện tài sản do người khác đánh rơi, bỏ quên mà không biết địa chỉ của người đánh rơi hoặc bỏ quên thì phải làm gì?",phải thông báo hoặc giao nộp cho Ủy ban nhân dân cấp xã hoặc công an cấp xã nơi gần nhất,,0.017563581466674805,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+230,Người bắt được gia súc bị thất lạc phải làm gì?,phải nuôi giữ và báo ngay cho Ủy ban nhân dân cấp xã nơi người đó cư trú,,0.016081571578979492,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+231,Chủ sở hữu được nhận lại gia súc phải thực hiện nghĩa vụ gì với người bắt được gia súc?,phải thanh toán tiền công nuôi giữ và các chi phí khác cho người bắt được gia súc,,0.015854835510253906,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+232,Sau bao lâu kể từ ngày thông báo công khai về gia súc không phải gia súc thả rông theo tập quán thì quyền sở hữu đối với gia súc thuộc về người bắt được gia súc?,06 tháng,,0.020641326904296875,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+233,Sau bao lâu kể từ ngày thông báo công khai về gia súc bị thất lạc là gia súc thả rông theo tập quán thì quyền sở hữu đối với gia súc thuộc về người bắt được gia súc?,01 năm,,0.03704380989074707,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+234,Sau bao lâu kể từ ngày thông báo công khai mà không có người đến nhận gia cẩm bị thất lạc thì quyền sở hữu đối với gia cầm thuộc về người bắt được?,01 tháng,,0.03209066390991211,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+235,"Chủ sở hữu được nhận lại gia 
+cầm phải thực hiện nghĩa vụ gì với người bắt được gia cầm?",phải thanh toán tiền công nuôi giữ và chi phí khác cho người bắt được gia cầm,,0.03052973747253418,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+236,"Sau bao lâu kể từ ngày thông báo công khai mà không có người đến nhận thì quyền sở hữu vật nuôi dưới nước đó thuộc về người có ruộng, ao, hồ?",01 tháng,,0.016764402389526367,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+237,Khi tài sản được tiêu dùng hoặc bị tiêu hủy thì quyền sở hữu đối với tài sản đó được xác định như thế nào?,quyền sở hữu đối với tài sản đó chấm dứt,,0.020874738693237305,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+238,Trường hợp Nhà nước trưng mua tài sản theo quy định của luật thì quyền sở hữu đối với tài sản của chủ sở hữu đó chấm dứt kể từ thời điểm nào?,thời điểm quyết định của cơ quan nhà nước có thẩm quyền có hiệu lực pháp luật,,0.019362926483154297,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+239,"Khi tài sản của chủ sở hữu do phạm tội, vi phạm hành chính mà bị tịch thu, sung quỹ nhà nước thì quyền sở hữu đối với tài sản đó chấm dứt kể từ thời điểm nào?","thời điểm bản án, quyết định của Tòa án, cơ quan nhà nước có thẩm quyền khác có hiệu lực pháp luật",,0.03603410720825195,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+240,Quyền được thực hiện trên một bất động sản nhằm phục vụ cho việc khai thác một bất động sản khác thuộc quyền sở hữu của người khác là quyền gì?,Quyền đối với bất động sản liền kề,,0.020472288131713867,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+241,Quyền đối với bất động sản liền kề được xác lập theo căn cứ nào?,"do địa thế tự nhiên, theo quy định của luật, theo thỏa thuận hoặc theo di chúc",,0.021464824676513672,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+242,Quyền đối với bất động sản liền kề có hiệu lực đối với những chủ thể nào?,"mọi cá nhân, pháp nhân",,0.020552873611450195,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+243,Bộ luật Lao động quy định điều gì?,"quy định tiêu chuẩn lao động; quyền, nghĩa vụ, trách nhiệm của người lao động, người sử dụng lao động, tổ chức đại diện người lao động tại cơ sở, tổ chức đại diện người sử dụng lao động trong quan hệ lao động và các quan hệ khác liên quan trực tiếp đến quan hệ lao động; quản lý nhà nước về lao động",,0.01874089241027832,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+244,"Định nghĩa của ""Người lao động""?","Người lao động là người làm việc cho người sử dụng lao động theo thỏa thuận, được trả lương và chịu sự quản lý, điều hành, giám sát của người sử dụng lao động.",,0.03486800193786621,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+245,"Định nghĩa của ""Người sử dụng lao động""?","Người sử dụng lao động là doanh nghiệp, cơ quan, tổ chức, hợp tác xã, hộ gia đình, cá nhân có thuê mướn, sử dụng người lao động làm việc cho mình theo thỏa thuận; trường hợp người sử dụng lao động là cá nhân thì phải có năng lực hành vi dân sự đầy đủ.",,0.015529155731201172,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+246,"Định nghĩa của ""Tổ chức đại diện người lao động tại cơ sở""?","Tổ chức đại diện người lao động tại cơ sở là tổ chức được thành lập trên cơ sở tự nguyện của người lao động tại một đơn vị sử dụng lao động nhằm mục đích bảo vệ quyền và lợi ích hợp pháp, chính đáng của người lao động trong quan hệ lao động thông qua thương lượng tập thể hoặc các hình thức khác theo quy định của pháp luật về lao động. Tổ chức đại diện người lao động tại cơ sở bao gồm công đoàn cơ sở và tổ chức của người lao động tại doanh nghiệp.",,0.029551029205322266,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+247,"Định nghĩa của ""Tổ chức đại diện người sử dụng lao động""?","Tổ chức đại diện người sử dụng lao động là tổ chức được thành lập hợp pháp, đại diện và bảo vệ quyền, lợi ích hợp pháp của người sử dụng lao động trong quan hệ lao động.",,0.018500804901123047,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+248,"Định nghĩa của ""Quan hệ lao động""?","Quan hệ lao động là quan hệ xã hội phát sinh trong việc thuê mướn, sử dụng lao động, trả lương giữa người lao động, người sử dụng lao động, các tổ chức đại diện của các bên, cơ quan nhà nước có thẩm quyền. Quan hệ lao động bao gồm quan hệ lao động cá nhân và quan hệ lao động tập thể.",,0.028346776962280273,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+249,"Định nghĩa của ""Người làm việc không có quan hệ lao động""?",Người làm việc không có quan hệ lao động là người làm việc không trên cơ sở thuê mướn bằng hợp đồng lao động.,,0.030914306640625,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+250,"Định nghĩa của ""Cưỡng bức lao động""?","Cưỡng bức lao động là việc dùng vũ lực, đe dọa dùng vũ lực hoặc các thủ đoạn khác để ép buộc người lao động phải làm việc trái ý muốn của họ.",,0.0319368839263916,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+251,"Định nghĩa của ""Quấy rối tình dục tại nơi làm việc""?",Quấy rối tình dục tại nơi làm việc là hành vi có tính chất tình dục của bất kỳ người nào đối với người khác tại nơi làm việc mà không được người đó mong muốn hoặc chấp nhận. Nơi làm việc là bất kỳ nơi nào mà người lao động thực tế làm việc theo thỏa thuận hoặc phân công của người sử dụng lao động.,,0.024109840393066406,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+252,Quan hệ lao động được xác lập qua đâu?,"Quan hệ lao động được xác lập qua đối thoại, thương lượng, thỏa thuận theo nguyên tắc tự nguyện, thiện chí, bình đẳng, hợp tác, tôn trọng quyền và lợi ích hợp pháp của nhau.",,0.020534276962280273,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+253,Việc làm là gì?,Việc làm là hoạt động lao động tạo ra thu nhập mà pháp luật không cấm.,,0.017650842666625977,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+254,"Trong điều 10 của Bộ Luật dân sự 2019, nơi làm việc của người lao động được quy định như thế nào?","Được tự do lựa chọn việc làm, làm việc cho bất kỳ người sử dụng lao động nào và ở bất kỳ nơi nào mà pháp luật không cấm.",,0.021926403045654297,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+255,Người lao động có phải trả chi phí cho việc tuyển dụng lao động không?,không,,0.02585124969482422,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+256,Hợp đồng lao động phải được giao kết bằng văn bản và được làm thành bao nhiêu bản?,02 bản,,0.015133142471313477,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+257,Người sử dụng lao động phải cung cấp thông tin gì cho người lao động?,"Người sử dụng lao động phải cung cấp thông tin trung thực cho người lao động về công việc, địa điểm làm việc, điều kiện làm việc, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn, vệ sinh lao động, tiền lương, hình thức trả lương, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, quy định về bảo vệ bí mật kinh doanh, bảo vệ bí mật công nghệ và vấn đề khác liên quan trực tiếp đến việc giao kết hợp đồng lao động mà người lao động yêu cầu.",,0.02778315544128418,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+258,Người lao động phải cung cấp thông tin gì cho người sử dụng lao động?,"Người lao động phải cung cấp thông tin trung thực cho người sử dụng lao động về họ tên, ngày tháng năm sinh, giới tính, nơi cư trú, trình độ học vấn, trình độ kỹ năng nghề, xác nhận tình trạng sức khỏe và vấn đề khác liên quan trực tiếp đến việc giao kết hợp đồng lao động mà người sử dụng lao động yêu cầu.",,0.03135800361633301,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+259,"Đối với công việc theo mùa vụ, công việc nhất định có thời hạn dưới bao nhiêu tháng thì nhóm người lao động từ đủ 18 tuổi trở lên có thể ủy quyền cho một người lao động trong nhóm để giao kết hợp đồng lao động",12 tháng,,0.029662370681762695,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+260,"Đối với công việc theo mùa vụ, công việc nhất định có thời hạn dưới 12 tháng thì nhóm người lao động từ đủ bao nhiêu tuổi trở lên có thể ủy quyền cho một người lao động trong nhóm để giao kết hợp đồng lao động?",18 tuổi,,0.01716160774230957,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+261,"Người lao động đồng thời giao kết nhiều hợp đồng lao động với nhiều người sử dụng lao động thì việc tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp được thực hiện theo quy định nào?","quy định của pháp luật về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và an toàn, vệ sinh lao động",,0.01929450035095215,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+262,"Trong thời hạn bao nhiêu ngày kể từ ngày hợp đồng lao động hết hạn, hai bên phải ký kết hợp đồng lao động mới?",30 ngày,,0.0202481746673584,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+263,Hợp đồng lao động có hiệu lực từ khi nào?,"kể từ ngày hai bên giao kết, trừ trường hợp hai bên có thỏa thuận hoặc pháp luật có quy định khác",,0.017431259155273438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+264,Không áp dụng thử việc đối với người lao động giao kết hợp đồng lao động có thời hạn dưới bao nhiêu tháng?,01 tháng,,0.017782926559448242,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+265,Thời gian thử việc do hai bên thỏa thuận căn cứ vào tính chất và mức độ phức tạp của công việc nhưng chỉ được thử việc bao nhiêu lần đối với một công việc?,một lần,,0.017060041427612305,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+266,"Thời gian thử việc không được quá bao nhiêu ngày đối với công việc của người quản lý doanh nghiệp theo quy định của Luật Doanh nghiệp, Luật Quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp?",180 ngày,,0.025994539260864258,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+267,"Thời gian thử việc không được quá bao nhiêu ngày đối với công việc có chức danh nghề nghiệp cần trình độ chuyên môn, kỹ thuật từ cao đẳng trở lên?",60 ngày,,0.017261028289794922,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+268,"Thời gian thử việc không được quá bao nhiêu ngày đối với công việc có chức danh nghề nghiệp cần trình độ chuyên môn, kỹ thuật trung cấp, công nhân kỹ thuật, nhân viên nghiệp vụ?",30 ngày,,0.01827526092529297,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+269,Tiền lương của người lao động trong thời gian thử việc do hai bên thỏa thuận nhưng ít nhất phải bằng bao nhiêu phần trăm mức lương của công việc đó?,85,,0.04129600524902344,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270,Tiền lương theo công việc mới ít nhất phải bằng bao nhiêu phần trăm tiền lương của công việc cũ?,85,,0.016869783401489258,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+271,"Trong quá trình thực hiện hợp đồng lao động, nếu bên nào có yêu cầu sửa đổi, bổ sung nội dung hợp đồng lao động thì phải báo cho bên kia biết trước ít nhất bao nhiêu ngày làm việc về nội dung cần sửa đổi, bổ sung?",03 ngày,,0.018883466720581055,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+272,Người lao động đang nghỉ thai sản hoặc nuôi con dưới bao nhiêu tháng tuổi không được thực hiện quyền đơn phương chấm dứt hợp đồng lao động?,12 tháng tuổi,,0.020685434341430664,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+273,Mỗi bên đều có quyền hủy bỏ việc đơn phương chấm dứt hợp đồng lao động trước khi hết thời hạn báo trước nhưng phải làm gì?,thông báo bằng văn bản và phải được bên kia đồng ý,,0.04763174057006836,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+274,Người lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật có được trợ cấp thôi việc không?,không,,0.026883363723754883,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+275,Thời hạn cho thuê lại lao động đối với người lao động tối đa là bao nhiêu tháng?,12 tháng,,0.022768735885620117,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+276,Doanh nghiệp cho thuê lại lao động và bên thuê lại lao động phải ký kết hợp đồng cho thuê lại lao động bằng văn bản và được làm thành bao nhiêu bản?,02 bản,,0.02553582191467285,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+277,"Người học nghề, người tập nghề phải đủ bao nhiêu tuổi trở lên?",14 tuổi,,0.03515887260437012,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+278,"Trong thời hạn bao nhiêu ngày kể từ ngày thỏa ước lao động tập thể được ký kết, người sử dụng lao động tham gia thỏa ước phải gửi 01 bản thỏa ước lao động tập thể đến cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh nơi đặt trụ sở chính?",10 ngày,,0.031513214111328125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+279,Đơn vị nào có quyền tuyên bố thỏa ước lao động tập thể vô hiệu?,Tòa án nhân dân,,0.04524350166320801,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+280,"Khi thỏa ước lao động tập thể bị tuyên bố vô hiệu thì quyền, nghĩa vụ và lợi ích của các bên ghi trong thỏa ước lao động tập thể tương ứng với toàn bộ hoặc phần bị tuyên bố vô hiệu được giải quyết dựa vào đâu?",quy định của pháp luật và các thỏa thuận hợp pháp trong hợp đồng lao động,,0.030369281768798828,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+281,"Mọi chi phí cho việc thương lượng, ký kết, sửa đổi, bổ sung, gửi và công bố thỏa ước lao động tập thể do phía nào chi trả?",phía người sử dụng lao động,,0.030061006546020508,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+282,Điền vào ...: Trường hợp ngừng việc từ 14 ngày làm việc trở xuống thì tiền lương ngừng việc được thỏa thuận ... mức lương tối thiểu?,không thấp hơn,,0.03136563301086426,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+283,Chiếm dụng xây dựng nhà trái phép có thể bị phạt tiền đến bao nhiêu?,50.000.000 đồng,,0.029338836669921875,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+284,"Tổ chức lấy vợ, lấy chồng cho người chưa đến tuổi kết hôn có thể bị phạt tiền đến bao nhiêu?",30.000.000 đồng,,0.030312061309814453,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+285,Vô ý gây thiệt hại cho tài sản người khác trị giá từ bao nhiêu đến bao nhiêu thì bị phạt cảnh cáo hoặc phạt cải tạo không giam giữ đến 02 năm?,100.000.000 đồng đến dưới 500.000.000 đồng,,0.018274307250976562,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+286,Vô ý gây thiệt hại cho tài sản người khác trị giá từ bao nhiêu trở lên thì bị phạt cải tạo không giam giữ từ 02 năm đến 03 năm hoặc phạt tù từ 03 tháng đến 02 năm.,500.000.000 đồng,,0.02900552749633789,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+287,Gây rối loạn tâm thần và hành vi của nạn nhân mà tỷ lệ tổn thương cơ thể 31% trở lên thì bị phạt tù đến bao nhiêu năm?,03 năm,,0.029856443405151367,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+288,Phá hoại việc thực hiện các chính sách kinh tế - xã hội nhằm chống chính quyền nhân dân thì bị phạt tù tối thiểu bao nhiêu năm?,07 năm,,0.016763687133789062,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+289,Cố tình không trả lại tài sản cho chủ sở hữ hợp pháp với giá trị từ 10.000.000 đồng đến dưới 200.000.000 đồng thì bị phạt cải tạo không giam giữ đến bao lâu?,02 năm,,0.02141714096069336,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+290,Người bị kết án gì thì không bị coi là có án tích?,"bị kết án do lỗi vô ý về tội phạm ít nghiêm trọng, tội phạm nghiêm trọng",,0.016370773315429688,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+291,Mức tiền phạt đối với pháp nhân thương mại phạm tội không được thấp hơn bao nhiêu?,50.000.000 đồng,,0.021483182907104492,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+292,Cấm huy động vốn được áp dụng khi nào?,xét thấy nếu để pháp nhân thương mại bị kết án huy động vốn thì có nguy cơ tiếp tục phạm tội,,0.03027820587158203,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+293,Thời hạn cấm huy động vốn là bao lâu?,từ 01 năm đến 03 năm,,0.031231403350830078,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+294,Tòa án có thể áp dụng biện pháp giáo dục tại trường giáo dưỡng từ bao nhiêu đến bao nhiêu năm đối với người dưới 18 tuổi phạm tội?,từ 01 năm đến 02 năm,,0.031122922897338867,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+295,Mức tiền phạt đối với người từ đủ 16 tuổi đến dưới 18 tuổi phạm tội không quá bao nhiêu phần của mức tiền phạt mà điều luật quy định?,một phần hai,,0.030430078506469727,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+296,Hình phạt cải tạo không giam giữ được áp dụng đối với người từ đủ 14 tuổi đến dưới 16 tuổi phạm tội mức độ nào?,rất nghiêm trọng,,0.03151965141296387,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+297,"Người giết người trong trạng thái tinh thần bị kích động mạnh do hành vi trái pháp luật nghiêm trọng của nạn nhân đối với người đó, thì bị phạt tù từ bao lâu đến bao lâu?",từ 06 tháng đến 03 năm,,0.03211617469787598,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+298,"Người vô ý làm chết người, thì bị phạt cải tạo không giam giữ đến bao lâu?",03 năm,,0.018937349319458008,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+299,"Người phạm tội vô ý làm chết 02 người trở lên, thì bị phạt tù từ bao nhiêu đến bao nhiêu năm?",từ 03 năm đến 10 năm,,0.026335477828979492,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+300,Người phạm tội bức tử đối với mấy người trở lên thì bị phạt tù từ 05 năm đến 12 năm?,02 người trở lên,,0.030809640884399414,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+301,"Đánh tráo người dưới 01 tuổi mà mình có trách nhiệm chăm sóc, nuôi dưỡng thì bị phạt tù tối thiểu bao nhiêu năm?",03 năm,,0.01555323600769043,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+302,Tội chiếm giữ bảo vật quốc gia thì bị phạt tù tối thiểu bao nhiêu năm?,01 năm,,0.01619553565979004,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+303,Tội vô ý gây thiệt hại tài sản của người khác trị giá đến dưới bao nhiêu thì bị phạt cảnh cáo?,dưới 500.000.000 đồng,,0.030677080154418945,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+304,Người phạm tội loạn luân thì bị phạt tù từ bao nhiêu năm?,01 năm,,0.020482301712036133,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+305,"Người phạm tội mang thai hộ vì mục đích thương mại mà tái phạm nguy hiểm, thì bị phạt tù từ bao nhiêu năm?",01 năm,,0.03922557830810547,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+306,"Người quảng cáo gian dối về hàng hóa, đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì có thể bị phạt cải tạo không giam giữ đến bao lâu?",03 năm,,0.03291201591491699,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+307,"Theo Bộ luật Hình sự 2017, người phạm tội cho vay lãi nặng trong giao dịch dân sự mà thu lợi bất chính bao nhiêu tiền trở lên thì có thể bị phạt tù từ 06 tháng đến 03 năm?",100.000.000 đồng trở lên,,0.045337677001953125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+308,"Người gây thiệt hại hoặc thất thoát tiền, hàng cứu trợ có giá trị bao nhiêu trở lên thì bị phạt tiền từ 200.000.000 đồng đến 1.000.000.000 đồng hoặc phạt tù từ 01 năm đến 05 năm?",300.000.000 đồng trở lên,,0.030104637145996094,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+309,"Không chấp hành nghiêm chỉnh chế độ trực ban, trực chiến, trực chỉ huy gây hậu quả nghiêm trọng có thể bị phạt tù tối đa bao nhiêu năm?",10 năm,,0.021082639694213867,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+310,"Làm lính đánh thuê nhằm chống một quốc gia hoặc một vùng lãnh thổ độc lập, có chủ quyền, thì bị phạt tù tối thiểu bao nhiêu năm?",05 năm,,0.01998281478881836,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+311,Chỉ huy hoặc sĩ quan làm mất tài liệu bí mật công tác quân sự thì bị hình phạt nào?,phạt tù từ 01 năm đến 05 năm,,0.03431248664855957,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+312,Làm mất tài liệu bí mật công tác quân sự trong khu vực có chiến sự thì bị hình phạt nào?,phạt tù từ 01 năm đến 05 năm,,0.03049445152282715,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+313,Làm mất tài liệu bí mật công tác quân sự trong khu vực có chiến sự thì bị phạt tù tối đa bao nhiêu năm?,05 năm,,0.017826318740844727,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+314,"Trong tình trạng khẩn cấp, cố ý báo cáo sai trong hoạt động quân sự gây hậu quả nghiêm trọng thì bị phạt như thế nào?",phạt tù từ 02 năm đến 07 năm,,0.027026891708374023,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+315,"Trong khu vực có chiến sự, nếu cố ý báo cáo sai trong hoạt động quân sự gây hậu quả nghiêm trọng thì bị phạt như thế nào?",phạt tù từ 02 năm đến 07 năm,,0.03179645538330078,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+316,Cố ý báo cáo sai trong hoạt động quân sự gây hậu quả nghiêm trọng trong trường hợp chiến đấu thì bị phạt tù tối thiểu bao nhiêu năm?,02 năm,,0.03112649917602539,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+317,Cố ý báo cáo sai trong hoạt động quân sự gây hậu quả nghiêm trọng trong trường hợp chiến đấu thì bị phạt tù tối đa bao nhiêu năm?,07 năm,,0.03138566017150879,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+318,"Trồng cây thuốc phiện, cây côca, cây cần sa hoặc các loại cây khác có chứa chất ma túy do Chính phủ quy định với số lượng bao nhiêu thì có thể bị phạt tù đến 07 năm?",3.000 cây trở lên,,0.01820230484008789,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+319,"Trồng cây thuốc phiện, cây côca, cây cần sa hoặc các loại cây khác có chứa chất ma túy do Chính phủ quy định với số lượng bao nhiêu thì có thể bị phạt tù tối đa 03 năm?",từ 500 cây đến dưới 3.000 cây,,0.018256187438964844,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+320,"Người đã từng làm giả tài liệu trong hồ sơ chào bán, niêm yết chứng khoán thu lợi bất chính, nếu tái phạm nguy hiểm thì bị phạt như thế nào?",phạt tiền từ 2.000.000.000 đồng đến 5.000.000.000 đồng hoặc phạt tù từ 02 năm đến 07 năm,,0.042617082595825195,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+321,"Làm giả tài liệu trong hồ sơ chào bán, niêm yết chứng khoán thu lợi bất chính từ bao nhiêu trở lên thì bị phạt tù từ 02 năm đến 07 năm?",2.000.000.000 đồng trở lên,,0.019344329833984375,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+322,"Người nào làm, tàng trữ, vận chuyển, lưu hành tiền giả, thì bị phạt tù tối thiểu bao nhiêu năm?",03 năm,,0.017833948135375977,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+323,"Hành vi hoạt động tình báo, phá hoại hoặc gây cơ sở để hoạt động tình báo, phá hoại chống nước Cộng hòa xã hội chủ nghĩa Việt Nam có hình phạt cao nhất là gì?",tử hình,,0.01881098747253418,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+324,"Hành vi hoạt động tình báo, phá hoại hoặc gây cơ sở để hoạt động tình báo, phá hoại chống nước Cộng hòa xã hội chủ nghĩa Việt Nam bị phạt tối thiểu bao nhiêu năm tù?",12 năm,,0.03612232208251953,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+325,"Thu thập, cung cấp tin tức, tài liệu khác nhằm mục đích để nước ngoài sử dụng chống nước Cộng hòa xã hội chủ nghĩa Việt Nam bị hình phạt cao nhất là gì?",tử hình,,0.017718791961669922,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+326,"Người gây cơ sở để hoạt động tình báo, phá hoại theo sự chỉ đạo của nước ngoài thì bị phạt như thế nào?","phạt tù từ 12 năm đến 20 năm, tù chung thân hoặc tử hình",,0.02795243263244629,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+327,Người cung cấp hoặc thu thập nhằm cung cấp bí mật nhà nước cho nước ngoài bị phạt như thế nào?,"phạt tù từ 12 năm đến 20 năm, tù chung thân hoặc tử hình",,0.031703948974609375,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+328,"Người đã nhận làm gián điệp, cần điều kiện gì để được miễn trách nhiệm hình sự về tội này?","đã nhận làm gián điệp, nhưng không thực hiện nhiệm vụ được giao và tự thú, thành khẩn khai báo với cơ quan nhà nước có thẩm quyền",,0.028188228607177734,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+329,"Cho thuê, cho mượn địa điểm hoặc có bất kỳ hành vi nào khác chứa chấp việc sử dụng trái phép chất ma túy có thể bị phạt tối đa bao nhiêu năm tù?",15 năm,,0.03073906898498535,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+330,"Cho thuê, cho mượn địa điểm hoặc có bất kỳ hành vi nào khác chứa chấp việc sử dụng trái phép chất ma túy có thể bị phạt tối thiểu bao nhiêu năm tù?",02 năm,,0.01723170280456543,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+331,"Lợi dụng chức vụ, quyền hạn để cho thuê, cho mượn địa điểm hoặc có bất kỳ hành vi nào khác chứa chấp việc sử dụng trái phép chất ma túy có thể bị phạt tối đa bao nhiêu năm tù?",15 năm,,0.026903867721557617,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+332,"Lợi dụng chức vụ, quyền hạn để cho thuê, cho mượn địa điểm hoặc có bất kỳ hành vi nào khác chứa chấp việc sử dụng trái phép chất ma túy có thể bị phạt tối thiểu bao nhiêu năm tù?",07 năm,,0.030530452728271484,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+333,"Cho thuê, cho mượn địa điểm hoặc có bất kỳ hành vi nào khác chứa chấp việc sử dụng trái phép chất ma túy có thể bị phạt tiền tối đa bao nhiêu?",200.000.000 đồng,,0.03140091896057129,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+334,"Cho thuê, cho mượn địa điểm hoặc có bất kỳ hành vi nào khác chứa chấp việc sử dụng trái phép chất ma túy có thể bị phạt tiền tối thiểu bao nhiêu?",50.000.000 đồng,,0.030541181564331055,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+335,"Người nào cho thuê, cho mượn địa điểm hoặc có bất kỳ hành vi nào khác chứa chấp việc sử dụng trái phép chất ma túy, nếu tái phạm nguy hiểm thì bị phạt như thế nào?",phạt tù từ 07 năm đến 15 năm,,0.02868819236755371,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+336,Điều khiển tàu bay vào hoặc ra khỏi Việt Nam mà vi phạm quy định về hàng không của nước Cộng hòa xã hội chủ nghĩa Việt Nam có thể bị phạt tiền như thế nào?,từ 100.000.000 đồng đến 300.000.000 đồng,,0.032118797302246094,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+337,Điều khiển tàu bay vào hoặc ra khỏi Việt Nam mà vi phạm quy định về hàng không của nước Cộng hòa xã hội chủ nghĩa Việt Nam có thể bị phạt tiền tối đa bao nhiêu?,300.000.000 đồng,,0.01775956153869629,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+338,Điều khiển tàu bay vào hoặc ra khỏi Việt Nam mà vi phạm quy định về hàng không của nước Cộng hòa xã hội chủ nghĩa Việt Nam có thể bị phạt tiền tối thiểu bao nhiêu?,100.000.000 đồng,,0.018431901931762695,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+339,Điều khiển tàu bay vào hoặc ra khỏi Việt Nam mà vi phạm quy định về hàng không của nước Cộng hòa xã hội chủ nghĩa Việt Nam có thể bị phạt tù như thế nào?,từ 03 tháng đến 03 năm,,0.017429828643798828,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+340,"Điều khiển tàu bay vào hoặc ra khỏi Việt Nam mà vi phạm quy định về hàng không của nước Cộng hòa xã hội chủ nghĩa Việt Nam, không gây hậu quả nghiêm trọng có thể bị phạt tù tối đa bao nhiêu năm?",03 năm,,0.018822669982910156,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+341,"Sử dụng trái phép tần số vô tuyến điện dành riêng cho mục đích cấp cứu, an toàn, tìm kiếm, cứu hộ, cứu nạn, quốc phòng, an ninh vào mục đích khác gây thiệt hại bao nhiêu thì bị phạt?",từ 200.000.000 đồng đến dưới 500.000.000 đồng,,0.034886837005615234,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+342,"Sử dụng trái phép tần số vô tuyến điện dành riêng cho mục đích cấp cứu, an toàn, tìm kiếm, cứu hộ, cứu nạn, quốc phòng, an ninh vào mục đích khác gây thiệt hại bao nhiêu thì bị phạt tù lên đến 05 năm?",500.000.000 đồng trở lên,,0.03128647804260254,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+343,"Sử dụng trái phép tần số vô tuyến điện dành riêng cho mục đích cấp cứu, an toàn, tìm kiếm, cứu hộ, cứu nạn, quốc phòng, an ninh vào mục đích khác gây thiệt hại từ 200.000.000 đồng đến dưới 500.000.000 đồng thì bị phạt như thế nào?",phạt tiền từ 50.000.000 đồng đến 100.000.000 đồng hoặc phạt cải tạo không giam giữ đến 03 năm,,0.03261542320251465,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+344,"Sử dụng trái phép tần số vô tuyến điện dành riêng cho mục đích cấp cứu, an toàn, tìm kiếm, cứu hộ, cứu nạn, quốc phòng, an ninh vào mục đích khác, đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm thì bị phạt tiền như thế nào?",từ 50.000.000 đồng đến 100.000.000 đồng,,0.046361684799194336,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+345,"Người sử dụng trái phép tần số vô tuyến điện dành riêng cho mục đích cấp cứu, an toàn, tìm kiếm, cứu hộ, cứu nạn, quốc phòng, an ninh vào mục đích khác, nếu tái phạm nguy hiểm thì bị phạt tù tối thiểu bao nhiêu năm?",05 năm,,0.029821157455444336,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+346,"Huy động, hỗ trợ tiền, tài sản dưới bất kỳ hình thức nào cho tổ chức, cá nhân khủng bố, thì bị phạt như thế nào?",phạt tù từ 05 năm đến 10 năm,,0.018225431442260742,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+347,"Người nào huy động, hỗ trợ tiền, tài sản dưới bất kỳ hình thức nào cho tổ chức, cá nhân khủng bố, thì bị phạt tù tối đa bao nhiêu năm?",10 năm,,0.027400732040405273,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+348,"Người nào huy động, hỗ trợ tiền, tài sản dưới bất kỳ hình thức nào cho tổ chức, cá nhân khủng bố, thì bị phạt tù tối thiểu bao nhiêu năm?",05 năm,,0.030039072036743164,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+349,"Người nào chuẩn bị phạm tội huy động, hỗ trợ tiền, tài sản dưới bất kỳ hình thức nào cho tổ chức, cá nhân khủng bố, thì bị phạt tù tối thiểu bao nhiêu năm?",01 năm,,0.030897140502929688,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+350,"Người nào chuẩn bị phạm tội huy động, hỗ trợ tiền, tài sản dưới bất kỳ hình thức nào cho tổ chức, cá nhân khủng bố, thì bị phạt tù tối đa bao nhiêu năm?",10 năm,,0.03152823448181152,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+351,"Dùng bói toán, đồng bóng hoặc các hình thức mê tín, dị đoan khác đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì bị phạt như thế nào?","phạt tiền từ 10.000.000 đồng đến 100.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm",,0.032056331634521484,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+352,"Dùng bói toán, đồng bóng hoặc các hình thức mê tín, dị đoan khác đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì bị phạt tiền tối đa bao nhiêu?",100.000.000 đồng,,0.0322413444519043,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+353,"Dùng bói toán, đồng bóng hoặc các hình thức mê tín, dị đoan khác đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm và làm chết người thì bị phạt như thế nào?",phạt tù từ 03 năm đến 10 năm,,0.029124975204467773,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+354,"Dùng bói toán, đồng bóng hoặc các hình thức mê tín, dị đoan khác đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích, thu lợi bất chính bao nhiêu thì bị phạt tù từ 03 năm đến 10 năm?",200.000.000 đồng trở lên,,0.023166418075561523,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+355,"Người nào đánh bạc trái phép dưới bất kỳ hình thức nào được thua bằng tiền hay hiện vật trị giá từ 5.000.000 đồng đến dưới 50.000.000 đồng hoặc dưới 5.000.000 đồng nhưng đã bị xử phạt vi phạm hành chính về hành vi này hoặc hành vi quy định tại Điều 322 của Bộ luật này hoặc đã bị kết án về tội này hoặc tội quy định tại Điều 322 của Bộ luật này, chưa được xóa án tích mà còn vi phạm, thì bị phạt như thế nào?","phạt tiền từ 20.000.000 đồng đến 100.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm",,0.036228179931640625,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+356,"Cán bộ, công chức, viên chức mà cố ý từ bỏ nhiệm vụ công tác gây hậu quả nghiêm trọng, thì bị phạt như thế nào?",phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm,,0.032150983810424805,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+357,"Cán bộ, công chức, viên chức mà cố ý từ bỏ nhiệm vụ công tác gây hậu quả rất nghiêm trọng hoặc đặc biệt nghiêm trọng thì bị phạt như thế nào?",phạt tù từ 02 năm đến 07 năm,,0.029575824737548828,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+358,"Cán bộ, công chức, viên chức mà cố ý từ bỏ nhiệm vụ công tác và lôi kéo người khác đào nhiệm thì bị phạt như thế nào?",phạt tù từ 02 năm đến 07 năm,,0.029859542846679688,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+359,"Cán bộ, công chức, viên chức mà cố ý từ bỏ nhiệm vụ công tác trong hoàn cảnh chiến tranh, thiên tai, dịch bệnh hoặc trong trường hợp khó khăn đặc biệt khác của xã hội thì bị phạt tù tối đa bao nhiêu năm?",07 năm,,0.01859140396118164,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+360,Quản chế được áp dụng đối với ai?,"người phạm tội xâm phạm an ninh quốc gia, người tái phạm nguy hiểm hoặc trong những trường hợp khác do Bộ luật này quy định",,0.029320955276489258,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+361,Thời hạn quản chế là từ bao nhiêu đến bao nhiêu năm?,01 năm đến 05 năm,,0.03116607666015625,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+362,Tù chung thân là gì?,"hình phạt tù không thời hạn được áp dụng đối với người phạm tội đặc biệt nghiêm trọng, nhưng chưa đến mức bị xử phạt tử hình.",,0.030148983001708984,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+363,"Một người vi phạm luật an ninh mạng khi truyên truyên, xuyên tạc về đối tượng nào?",chính quyền nhân dân,,0.016119718551635742,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+364,Hành động nào gây nhằm mục đích chống chính quyền nhân dân vi phạm luật an ninh mạng?,"Kêu gọi, vận động, xúi giục, đe dọa, gây chia rẽ, tiến hành hoạt động vũ trang hoặc dùng bạo lực",,0.015008211135864258,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+365,Những thông tin nào về lĩnh vực ngân hàng xâm phạm trật tự quản lý kinh tế?,"Thông tin bịa đặt, sai sự thật",,0.01571202278137207,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+366,Những doanh kiệp cung câp dịch vụ trên mạng viễn thông cần phải làm gì để xử lý các thông tin vi phạm luật an ninh mạng?,phối hợp với cơ quan chức năng,,0.028885841369628906,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+367,Những hành động nào đối với các cuộc đàm thoại sẽ vi phạm luật an ninh mạng?,"nghe, ghi âm, ghi hình trái phép",,0.01898670196533203,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+368,Những tài liệu bí mật của nhà nước thường được lưu trữ ở đâu?,"trên máy tính, thiết bị khác hoặc trao đổi trên không gian mạng",,0.02527785301208496,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+369,"Trước khi đưa vào sử dụng trong hệ thống thông tin quan trọng về an ninh quốc gia, nhữn sản phẩm nào có thể phải được kiểm tra?","thiết bị, sản phẩm, dịch vụ thông tin liên lạc, thiết bị kỹ thuật số, thiết bị điện tử",,0.030040264129638672,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+370,Bộ phận nào có nhiệm vụ thực hiện các quy định của pháp luật trong việc sử dụng mật mã để bảo vệ thông tin thuộc bí mật nhà nước?,Ban Cơ yếu Chính phủ,,0.03153419494628906,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+371,Hành động nào là phạm pháp đối với mạng viện thông quốc tế?,trộm cắp cước,,0.03090953826904297,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+372,"Những hành động nào vi phạm luật an ninh mạng đối với thẻ tín dụng, tài khoản ngân hàng của người khác khi sử dụng mạng internet?","làm giả, lưu hành, trộm cắp, mua bán, thu thập, trao đổi trái phép thông tin",,0.018746137619018555,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+373,Trách nhiệm của lực lượng chuyên trách bảo vệ an ninh mạng là gì?,"phòng, chống hành vi sử dụng không gian mạng, công nghệ thông tin, phương tiện điện tử để vi phạm pháp luật",,0.02788376808166504,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+374,Việc phát tán chương trình gây hại cho những thiết bị nào là vi phạm luật an ninh mạng?,"mạng viễn thông, mạng Internet, mạng máy tính, hệ thống thông tin, hệ thống xử lý và điều khiển thông tin, cơ sở dữ liệu, phương tiện điện tử",,0.016248703002929688,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+375,"Những hành động nào là vi phạm luật an ninh mạng đối với thiết bị, phần mềm có tính năng tân công mạng internet?","Sản xuất, mua bán, trao đổi, tặng cho",,0.029076337814331055,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+376,Khi xảy ra tấn công mạng thì bộ phận nào sẽ đứng ra chủ trì giải quyết vấn đề?,lực lượng chuyên trách bảo vệ an ninh mạng,,0.015346288681030273,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+377,Doanh nghiệp cung cấp dịch vụ mạng có thể hỗ trợ những gì cho lực lượng chuyên trách bảo vệ an ninh mạng khi có sự cố xảy ra?,"chặn lọc thông tin để ngăn chặn, loại trừ hành vi tấn công mạng và cung cấp đầy đủ, kịp thời thông tin, tài liệu liên quan.",,0.01545405387878418,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+378,Chủ quản hệ thống thông tin phải làm gì để giảm thiểu nguy cơ khủng bố mạng?,"thường xuyên rà soát, kiểm tra hệ thống thông tin thuộc phạm vi quản lý",,0.028846263885498047,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+379,Khi xảy ra dấu hiệu của khủng bố mạng thì ta phải làm gì đầu tiên?,báo cho lực lượng bảo vệ an ninh mạng,,0.03139948844909668,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+380,Tình huống nào trên mạng internet có nguy cơ xảy ra bạo loạn ?,Xuất hiện thông tin kích động,,0.030081987380981445,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+381,Tấn công với mức độ như thế nào thì sẽ xảy ra tình huống nguy hiểm về an ninh mạng?,"quy mô lớn, cường độ cao",,0.017726659774780273,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+382,Khi xảy ra tấn công mạng thì nên xử lý như thế nào đối với mạng quốc tế?,Ngừng cung cấp thông tin mạng tại khu vực cụ thể hoặc ngắt cổng kết nối,,0.030042171478271484,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+383,Bộ phận nào sẽ xem xét để xử lý khi có nguy hiểm về ăn ninh mạng do một cá nhân thực hiện?,"hủ tướng Chính phủ xem xét, quyết định hoặc ủy quyền cho Bộ trưởng Bộ Công an",,0.014961004257202148,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+384,Bộ phận nào sẽ xem xét để xử lý khi có nguy hiểm về ăn ninh mạng đối với hệ thống thông tin quân sự?,"Thủ tướng Chính phủ xem xét, quyết định hoặc ủy quyền cho Bộ trưởng Bộ Quốc phòng",,0.02769923210144043,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+385,lực lượng chuyên trách bảo vệ an ninh mạng cần phải làm gì để đảm bảo hoạt động ổn định của hệ thống thông tin quan trọng?,"Phòng, chống tấn công và bảo vệ",,0.030057191848754883,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+386,lực lượng chuyên trách bảo vệ an ninh mạng cần phải làm gì khi xảy ra tấn công mạng có ảnh hưởng đến xã hội?,Làm tê liệt hoặc hạn chế hoạt động sử dụng không gian mạng,,0.031005859375,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+387,"Để đảm bảo an ninh mạng, cần phải có vấn đề gì đối với hệ thống thông tin ?",phương án bảo đảm an ninh mạng,,0.0330657958984375,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+388,"Cần phải làm gì đối với những thông tin, tài liệu được lưu trữ và soạn thảo?","Ứng dụng, triển khai phương án, biện pháp, công nghệ bảo vệ an ninh mạng",,0.01515340805053711,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+389,Làm thế nào để nâng cao năng lực bảo vệ an ninh mạng cho người lao động?,Tổ chức bồi dưỡng kiến thức về an ninh mạng,,0.027493715286254883,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+390,"Để phù hợp với điều kiện bảo đảm triển khai hoạt động bảo vệ an ninh mạng, theo luật an ninh mạng thì chúng ta phải làm gì?","Đầu tư, xây dựng hạ tầng cơ sở vật chất",,0.032418251037597656,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+391,Ngoài việc có hành vi vi phạm pháp luật thì trường hợp nào cần phải được kiểm tra an ninh mạng?,Khi có đề nghị của chủ quản hệ thống thông tin,,0.016391515731811523,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+392,trách nhiệm của chủ quản hệ thống là gì khi phát hiện hành vi vi phạm pháp luật?,thông báo cho lực lượng chuyên trách bảo vệ an ninh mạng,,0.02810811996459961,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+393,Thời hạn là bao lâu đối với việc thông báo kết quả kiểm tra trong trường hợp phát hiện lỗ hổng bảo mật?,30 ngày,,0.03173971176147461,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+394,bảo vệ an ninh mạng cần phải kết hợp chặt chẽ với điều gì?,yêu cầu phát triển kinh tế - xã hội,,0.014692068099975586,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+395,Doanh nghiệp cần làm gì khi có người dùng đăng ký tài khoản số?,Xác thực thông tin,,0.029388427734375,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+396,"Trong khoảng thời gian bao lâu thì cần phải ngăn chặn việc chia sẻ, xóa bỏ thông tin  thông tin kể từ lúc có yêu cầu của lực lượng chuyên trách.",24 giờ,,0.018807411193847656,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+397,"Khi có yêu cầu của lực lượng chuyên trách, cần phải làm gì đối với các tổ chức hoặc cá nhân vi phạm?",Không cung cấp hoặc ngừng cung cấp dịch vụ,,0.028335094451904297,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+398,Cần phải nghiên cứu những phương pháp để đảm bảo điều gì đối với phần cứng và phần mêm?,thực hiện đúng chức năng,,0.016260147094726562,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+399,chúng ta cần sử dụng những ứng dụng nào để tăng cường năng lực tự chủ về an ninh mạng?,"công nghệ mới, công nghệ tiên tiến",,0.030027389526367188,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+400,Doanh nghiệp cung cấp dịch vụ mang cần làm gì để đảm bảo an toàn cho trẻ em?,kiểm soát nội dung thông tin,,0.03007221221923828,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401,"cha mẹ, giáo viên, người chăm sóc trẻ em cần phải làm gì khi trẻ em tham gia không gian mạng?","bảo đảm quyền của trẻ em, bảo vệ trẻ em",,0.0309145450592041,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+402,Luật An ninh mạng 2018 quy định về điều gì?,"quy định về hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan",,0.030069828033447266,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+403,An ninh mạng là gì?,"An ninh mạng là sự bảo đảm hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.",,0.0173494815826416,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+404,Không gian mạng quốc gia là do ai xác lập?,Chính phủ,,0.0302736759185791,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+405,"Thông tin dùng để chứng thực, xác thực, phân quyền sử dụng các ứng dụng, dịch vụ trên không gian mạng được gọi là gì?",Tài khoản số,,0.032773733139038086,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+406,Nhà nước ưu tiên bảo vệ an ninh mạng trong các lĩnh vực nào?,"quốc phòng, an ninh, phát triển kinh tế - xã hội, khoa học, công nghệ và đối ngoại",,0.04186820983886719,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+407,"Ngoài quốc phòng, an ninh, phát triển kinh tế - xã hội, Nhà nước còn ưu tiên bảo vệ an ninh mạng trong các lĩnh vực nào?","khoa học, công nghệ và đối ngoại",,0.031723737716674805,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+408,Nguyên tắc bảo vệ an ninh mạng được đặt dưới sự lãnh đạo của ai?,Đảng Cộng sản Việt Nam,,0.015149116516113281,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+409,"Khởi tố, điều tra, truy tố, xét xử các vụ án liên quan đến an ninh mạng theo quy định của Bộ luật nào?",Bộ luật Tố tụng hình sự,,0.02794194221496582,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+410,"Hầu hết các quy định trình tự, thủ tục áp dụng biện pháp bảo vệ an ninh mạng được quy định bởi ai?",Chính phủ,,0.031087398529052734,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+411,Hợp tác quốc tế về an ninh mạng được thực hiện trên cơ sở nào?,"Hợp tác quốc tế về an ninh mạng được thực hiện trên cơ sở tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, không can thiệp vào công việc nội bộ của nhau, bình đẳng và cùng có lợi.",,0.0320277214050293,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+412,"Đơn vị nào chịu trách nhiệm trước Chính phủ chủ trì, phối hợp thực hiện hợp tác quốc tế về an ninh mạng, trừ hoạt động hợp tác quốc tế của Bộ Quốc phòng?",Bộ Công an,,0.03197932243347168,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+413,Đơn vị nào chịu trách nhiệm trước Chính phủ thực hiện hợp tác quốc tế về an ninh mạng trong phạm vi quản lý?,Bộ Quốc phòng,,0.03157830238342285,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+414,"Đơn vị nào có trách nhiệm phối hợp với Bộ Công an, Bộ Quốc phòng trong hoạt động hợp tác quốc tế về an ninh mạng?",Bộ Ngoại giao,,0.03022027015686035,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+415,Cách xử lý vi phạm pháp luật về an ninh mạng như thế nào?,"tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật",,0.015302658081054688,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+416,"Ai là người ban hành và sửa đổi, bổ sung Danh mục hệ thống thông tin quan trọng về an ninh quốc gia?",Thủ tướng Chính phủ,,0.028707265853881836,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+417,"Những đơn vị nào chịu trách nhiệm thẩm định, đánh giá, kiểm tra, giám sát, ứng phó, khắc phục sự cố đối với hệ thống thông tin quan trọng về an ninh quốc gia?","Bộ Công an, Bộ Quốc phòng, Bộ Thông tin và Truyền thông, Ban Cơ yếu Chính phủ, các Bộ, ngành chức năng",,0.031375885009765625,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+418,"Đơn vị nào quy định sự phối hợp giữa những đơn vị chịu trách nhiệm thẩm định, đánh giá, kiểm tra, giám sát, ứng phó, khắc phục sự cố đối với hệ thống thông tin quan trọng về an ninh quốc gia?",Chính phủ,,0.030469179153442383,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+419,Thẩm định an ninh mạng là gì?,"Thẩm định an ninh mạng là hoạt động xem xét, đánh giá những nội dung về an ninh mạng để làm cơ sở cho việc quyết định xây dựng hoặc nâng cấp hệ thống thông tin.",,0.015892982482910156,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+420,Báo cáo nào cần được thẩm định an ninh mạng?,"Báo cáo nghiên cứu tiền khả thi, hồ sơ thiết kế thi công dự án đầu tư xây dựng hệ thống thông tin",,0.02074718475341797,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+421,Đề án nào cần được thẩm định an ninh mạng?,Đề án nâng cấp hệ thống thông tin,,0.03865218162536621,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+422,"Ngoài việc tuân thủ quy định, điều kiện an ninh mạng trong thiết kế, nội dung thẩm định an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia còn bao gồm gì?","Sự phù hợp với phương án bảo vệ, ứng phó, khắc phục sự cố và bố trí nhân lực bảo vệ an ninh mạng",,0.03170514106750488,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+423,Đơn vị nào thẩm định an ninh mạng đối với hệ thống thông tin quân sự?,Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng,,0.030897855758666992,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+424,Đơn vị nào thẩm định an ninh mạng đối với hệ thống thông tin cơ yếu thuộc Ban Cơ yếu Chính phủ?,Ban Cơ yếu Chính phủ,,0.03265571594238281,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+425,"Hoạt động xem xét sự đáp ứng về an ninh mạng của hệ thống thông tin trước khi đưa vào vận hành, sử dụng được gọi là gì?",Đánh giá điều kiện về an ninh mạng,,0.021127939224243164,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+426,"Đơn vị nào chịu trách nhiệm đánh giá, chứng nhận đủ điều kiện an ninh mạng đối với hệ thống thông tin cơ yếu thuộc Ban Cơ yếu Chính phủ?",Ban Cơ yếu Chính phủ,,0.020230770111083984,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+427,Kiểm tra an ninh mạng là gì?,"Kiểm tra an ninh mạng là hoạt động xác định thực trạng an ninh mạng của hệ thống thông tin, cơ sở hạ tầng hệ thống thông tin hoặc thông tin được lưu trữ, xử lý, truyền đưa trong hệ thống thông tin nhằm phòng ngừa, phát hiện, xử lý nguy cơ đe dọa an ninh mạng và đưa ra các phương án, biện pháp bảo đảm hoạt động bình thường của hệ thống thông tin.",,0.01557612419128418,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+428,Kết quả kiểm tra an ninh mạng được bảo mật hay công khai?,bảo mật,,0.03590893745422363,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+429,"Hoạt động thu thập, phân tích tình hình nhằm xác định nguy cơ đe dọa an ninh mạng, sự cố an ninh mạng, điểm yếu, lỗ hổng bảo mật, mã độc, phần cứng độc hại để cảnh báo, khắc phục, xử lý được gọi là gì?",Giám sát an ninh mạng,,0.04475712776184082,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+430,Các công dân Việt Nam với các tiêu chuẩn gì thì có thể được tuyển chọn vào lực lượng bảo vệ an ninh mạng?,"Công dân Việt Nam có đủ tiêu chuẩn về phẩm chất đạo đức, sức khỏe, trình độ, kiến thức về an ninh mạng, an toàn thông tin mạng, công nghệ thông tin, có nguyện vọng thì có thể được tuyển chọn vào lực lượng bảo vệ an ninh mạng.",,0.0177459716796875,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+431,"Các đơn vị nào chịu trách nhiệm tổ chức bồi dưỡng nghiệp vụ an ninh mạng cho lực lượng bảo vệ an ninh mạng và công chức, viên chức, người lao động tham gia bảo vệ an ninh mạng?","Bộ Công an chủ trì, phối hợp với Bộ, ngành có liên quan",,0.01986098289489746,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+432,"Ai chịu trách nhiệm cho việc làm chính sách phổ biến kiến thức về an ninh mạng trong phạm vi cả nước, khuyến khích cơ quan nhà nước phối hợp với tổ chức tư nhân, cá nhân thực hiện chương trình giáo dục và nâng cao nhận thức về an ninh mạng?",Nhà nước,,0.03896212577819824,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+433,"Đơn vị nào có trách nhiệm xây dựng và triển khai hoạt động phổ biến kiến thức, nâng cao nhận thức về an ninh mạng cho cơ quan, tổ chức, cá nhân của tỉnh?",Ủy ban nhân dân cấp tỉnh,,0.03191566467285156,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+434,"Điền vào chỗ trống: Kinh phí bảo vệ an ninh mạng của cơ quan nhà nước, tổ chức chính trị được ... đảm bảo.",ngân sách nhà nước,,0.03015732765197754,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+435,"Bộ nào chịu trách nhiệm xây dựng, đề xuất chiến lược, chủ trương, chính sách, kế hoạch và phương án bảo vệ an ninh mạng trong phạm vi quản lý?",Bộ Quốc phòng,,0.0329585075378418,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+436,"Bộ nào chịu trách nhiệm kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về an ninh mạng trong phạm vi quản lý?",Bộ Quốc phòng,,0.029014110565185547,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+437,"Bộ Quốc phòng và Bộ nào chịu trách nhiệm tổ chức diễn tập phòng, chống tấn công mạng, diễn tập ứng phó, khắc phục sự cố an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia, triển khai thực hiện công tác bảo vệ an ninh mạng?",Bộ Công an,,0.029947519302368164,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+438,"Bộ nào chịu trách nhiệm yêu cầu doanh nghiệp cung cấp dịch vụ trên mạng viễn thông, mạng Internet, các dịch vụ gia tăng trên không gian mạng, chủ quản hệ thống thông tin loại bỏ thông tin có nội dung vi phạm pháp luật về an ninh mạng trên dịch vụ, hệ thống thông tin do doanh nghiệp, cơ quan, tổ chức trực tiếp quản lý?",Bộ Thông tin và Truyền thông,,0.04600882530212402,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+439,"Đơn vị nào chịu trách nhiệm tham mưu, đề xuất Bộ trưởng Bộ Quốc phòng ban hành hoặc trình cơ quan có thẩm quyền ban hành và tổ chức thực hiện văn bản quy phạm pháp luật, chương trình, kế hoạch về mật mã để bảo vệ an ninh mạng thuộc phạm vi Ban Cơ yếu Chính phủ quản lý?",Ban Cơ yếu Chính phủ,,0.044583797454833984,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+440,Luật An ninh mạng 2018 có hiệu lực thi hành từ ngày nào?,ngày 01 tháng 01 năm 2019,,0.017983436584472656,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+441,"Hệ thống thông tin đang vận hành, sử dụng được bổ sung vào Danh mục hệ thống thông tin quan trọng về an ninh quốc gia thì trong thời hạn bao nhiêu tháng kể từ ngày được bổ sung, chủ quản hệ thống thông tin có trách nhiệm bảo đảm đủ điều kiện an ninh mạng, lực lượng chuyên trách bảo vệ an ninh mạng đánh giá điều kiện an ninh mạng theo quy định tại Điều 12 của Luật An ninh mạng 2018?",12 tháng,,0.04326963424682617,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+442,"Theo Bộ luật dân sự 2015, ở nước Cộng hoà xã hội chủ nghĩa Việt Nam, các quyền gì được công nhận, tôn trọng, bảo vệ và bảo đảm theo Hiến pháp và pháp luật?",quyền dân sự,,0.030788421630859375,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+443,"Theo Bộ luật dân sự 2015, ở nước Cộng hoà xã hội chủ nghĩa Việt Nam, quyền dân sự có thể bị hạn chế theo quy định của luật trong trường hợp cần thiết vì các lý do nào?","quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng.",,0.03295445442199707,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+444,"Theo Điều 5: Áp dụng tập quán, trong Bộ luật dân sự 2015, tập quán là gì?","Tập quán là quy tắc xử sự có nội dung rõ ràng để xác định quyền, nghĩa vụ của cá nhân, pháp nhân trong quan hệ dân sự cụ thể, được hình thành và lặp đi lặp lại nhiều lần trong một thời gian dài, được thừa nhận và áp dụng rộng rãi trong một vùng, miền, dân tộc, cộng đồng dân cư hoặc trong một lĩnh vực dân sự.",,0.030936002731323242,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+445,"Theo Bộ luật dân sự 2015, trường hợp các bên không có thoả thuận và pháp luật không quy định thì có thể áp dụng tập quán như thế nào?",có thể áp dụng tập quán nhưng tập quán áp dụng không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này.,,0.03189706802368164,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+446,"Theo Bộ luật dân sự 2015, trường hợp phát sinh quan hệ thuộc phạm vi điều chỉnh của pháp luật dân sự mà các bên không có thỏa thuận, pháp luật không có quy định và không có tập quán được áp dụng thì phải áp dụng quy định của pháp luật như thế nào?",áp dụng quy định của pháp luật điều chỉnh quan hệ dân sự tương tự.,,0.045866966247558594,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+447,"Theo Bộ luật dân sự 2015, trường hợp không thể áp dụng tương tự pháp luật theo quy định tại khoản 1 Điều 6 của Bộ luật này thì phải áp dụng như thế nào?","áp dụng các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này, án lệ, lẽ công bằng.",,0.031995296478271484,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+448,"Theo Bộ luật dân sự 2015, việc xác lập, thực hiện, chấm dứt quyền, nghĩa vụ dân sự phải bảo đảm giữ gìn những giá trị gì?","bản sắc dân tộc, tôn trọng và phát huy phong tục, tập quán, truyền thống tốt đẹp, tình đoàn kết, tương thân, tương ái, mỗi người vì cộng đồng, cộng đồng vì mỗi người và các giá trị đạo đức cao đẹp của các dân tộc cùng sinh sống trên đất nước Việt Nam.",,0.03175687789916992,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+449,"Theo Bộ luật dân sự 2015, trong quan hệ dân sự, việc hoà giải giữa các bên phù hợp với quy định của pháp luật có được khuyến khích hay không?",được khuyến khích.,,0.031662702560424805,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+450,"Theo Bộ luật dân sự 2015, hãy liệt kê 9 căn cứ xác lập nên Quyền dân sự.","1. Hợp đồng.
+
+2. Hành vi pháp lý đơn phương.
+
+3. Quyết định của Tòa án, cơ quan có thẩm quyền khác theo quy định của luật.
+
+4. Kết quả của lao động, sản xuất, kinh doanh; kết quả của hoạt động sáng tạo ra đối tượng quyền sở hữu trí tuệ.
+
+5. Chiếm hữu tài sản.
+
+6. Sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật.
+
+7. Bị thiệt hại do hành vi trái pháp luật.
+
+8. Thực hiện công việc không có ủy quyền.
+
+9. Căn cứ khác do pháp luật quy định.",,0.01733112335205078,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+451,"Theo Bộ luật dân sự 2015, cá nhân, pháp nhân thực hiện quyền dân sự theo ý chí của mình, nhưng không được trái với quy định tại những Điều nào trong Bộ luật này?",Điều 3 và Điều 10,,0.02983689308166504,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+452,"Theo Điều 9: Thực hiện quyền dân sự, trong Bộ luật dân sự 2015, việc cá nhân, pháp nhân không thực hiện quyền dân sự của mình không phải là căn cứ làm chấm dứt quyền, trừ trường hợp nào?",luật có quy định khác.,,0.020877838134765625,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+453,"Theo Điều 10: Giới hạn việc thực hiện quyền dân sự, trong Bộ luật dân sự 2015, cá nhân, pháp nhân không được lạm dụng quyền dân sự của mình để?","gây thiệt hại cho người khác, để vi phạm nghĩa vụ của mình hoặc thực hiện mục đích khác trái pháp luật.",,0.041605234146118164,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+454,"Trường hợp cá nhân, pháp nhân không tuân thủ quy định tại khoản 1 Điều 10: Giới hạn việc thực hiện quyền dân sự, trong Bộ luật dân sự 2015, thì Toà án hoặc cơ quan có thẩm quyền khác có thể?","căn cứ vào tính chất, hậu quả của hành vi vi phạm mà có thể không bảo vệ một phần hoặc toàn bộ quyền của họ, buộc bồi thường nếu gây thiệt hại và có thể áp dụng chế tài khác do luật quy định.",,0.028903484344482422,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+455,"Liệt kê 7 phương thức bảo vệ quyền dân sự mà chủ thể có thể yêu cầu cơ quan, tổ chức có thẩm quyền khi bị xâm phạm trong Bộ luật dân sự 2015.","1. Công nhận, tôn trọng, bảo vệ và bảo đảm quyền dân sự của mình.
+
+2. Buộc chấm dứt hành vi xâm phạm.
+
+3. Buộc xin lỗi, cải chính công khai.
+
+4. Buộc thực hiện nghĩa vụ.
+
+5. Buộc bồi thường thiệt hại.
+
+6. Hủy quyết định cá biệt trái pháp luật của cơ quan, tổ chức, người có thẩm quyền.
+
+7. Yêu cầu khác theo quy định của luật.",,0.019611358642578125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+456,"Theo Bộ luật dân sư 2015, việc tự bảo vệ quyền dân sự phải phù hợp với tính chất, mức độ xâm phạm đến quyền dân sự đó và không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại điều mấy trong bộ luật này?",Điều 3,,0.019697904586791992,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+457,"Theo Bộ luật dân sự 2015, cá nhân, pháp nhân có quyền dân sự bị xâm phạm được bồi thường toàn bộ thiệt hại, trừ trường hợp các bên có thỏa thuận khác hoặc?",luật có quy định khác.,,0.03741765022277832,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+458,"Theo Điều 14: Bảo vệ quyền dân sự thông qua cơ quan có thẩm quyền, trong Bộ luật dân sự 2015, toà án, cơ quan có thẩm quyền khác có trách nhiệm gì?","tôn trọng, bảo vệ quyền dân sự của cá nhân, pháp nhân.",,0.030352115631103516,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+459,"Theo Điều 14: Bảo vệ quyền dân sự thông qua cơ quan có thẩm quyền, trong Bộ luật dân sự 2015, trường hợp quyền dân sự bị xâm phạm hoặc có tranh chấp thì việc bảo vệ quyền được thực hiện theo?",pháp luật tố tụng tại Tòa án hoặc trọng tài.,,0.02061915397644043,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+460,"Toà án không được từ chối giải quyết vụ, việc dân sự vì lý do chưa có điều luật để áp dụng; trong trường hợp này, quy định tại điều mấy của Bộ luật dân sự 2015 được áp dụng?",Điều 5 và Điều 6,,0.0399622917175293,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+461,"Theo Điều 15, Bộ luật dân sự 2015, khi giải quyết yêu cầu bảo vệ quyền dân sự, Tòa án hoặc cơ quan có thẩm quyền khác có quyền gì?","hủy quyết định cá biệt trái pháp luật của cơ quan, tổ chức, người có thẩm quyền.",,0.030576467514038086,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+462,"Theo Điều 15, Bộ luật dân sự 2015, trường hợp quyết định cá biệt bị huỷ thì quyền dân sự bị xâm phạm được xử lý như thế nào?",quyền dân sự bị xâm phạm được khôi phục và có thể được bảo vệ bằng các phương thức quy định tại Điều 11 của Bộ luật này.,,0.02308797836303711,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+463,"Theo Điều 16, Bộ luật dân sự 2015, năng lực pháp luật dân sự của cá nhân là gì?",khả năng của cá nhân có quyền dân sự và nghĩa vụ dân sự.,,0.018434762954711914,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+464,"Theo Điều 16, Bộ luật dân sự 2015, năng lực pháp luật dân sự của cá nhân tồn tại khi nào?",từ khi người đó sinh ra và chấm dứt khi người đó chết.,,0.020209312438964844,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+465,"Theo Bộ luật dân sự 2015, hãy mô tả nội dung năng lực pháp luật dân sự của cá nhân.","1. Quyền nhân thân không gắn với tài sản và quyền nhân thân gắn với tài sản.
+
+2. Quyền sở hữu, quyền thừa kế và quyền khác đối với tài sản.
+
+3. Quyền tham gia quan hệ dân sự và có nghĩa vụ phát sinh từ quan hệ đó.",,0.030788660049438477,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+466,"Theo Điều 18, Bộ luật dân sự 2015, năng lực pháp luật dân sự của cá nhân có bị hạn chế hay không?","không bị hạn chế, trừ trường hợp Bộ luật này, luật khác có liên quan quy định khác.",,0.017876148223876953,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+467,"Theo Bộ luật dân sự 2015, năng lực hành vi dân sự của cá nhân là gì?","là khả năng của cá nhân bằng hành vi của mình xác lập, thực hiện quyền, nghĩa vụ dân sự.",,0.030023574829101562,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+468,"Theo Bộ luật dân sự 2015, người thành niên là người như thế nào?",người từ đủ mười tám tuổi trở lên.,,0.030660390853881836,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+469,"Theo Bộ luật dân sự 2015, người thành niên có năng lực hành vi dân sự như thế nào?","có năng lực hành vi dân sự đầy đủ, trừ trường hợp quy định tại các điều 22, 23 và 24 của Bộ luật này.",,0.03183102607727051,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+470,"Theo Bộ luật dân sự 2015, người chưa thành niên là người như thế nào?",người chưa đủ mười tám tuổi.,,0.01903700828552246,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+471,"Theo Điều 21, Bộ luật dân sự 2015, giao dịch dân sự của người chưa đủ sáu tuổi do ai xác lập và thực hiện?",người đại diện theo pháp luật của người đó,,0.018756628036499023,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+472,"Theo Bộ luật dân sự 2015, công dân bị mất năng lực hành vi dân sự khi nào?","Khi một người do bị bệnh tâm thần hoặc mắc bệnh khác mà không thể nhận thức, làm chủ được hành vi thì theo yêu cầu của người có quyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, Tòa án ra quyết định tuyên bố người này là người mất năng lực hành vi dân sự trên cơ sở kết luận giám định pháp y tâm thần.
+
+Khi không còn căn cứ tuyên bố một người mất năng lực hành vi dân sự thì theo yêu cầu của chính người đó hoặc của người có quyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, Tòa án ra quyết định hủy bỏ quyết định tuyên bố mất năng lực hành vi dân sự.",,0.03916454315185547,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+473,"Theo Bộ luật dân sự 2015, người có khó khăn trong nhận thức và làm chủ hành vi là người như thế nào?","1. Người thành niên do tình trạng thể chất hoặc tinh thần mà không đủ khả năng nhận thức, làm chủ hành vi nhưng chưa đến mức mất năng lực hành vi dân sự thì theo yêu cầu của người này, người có quyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, trên cơ sở kết luận giám định pháp y tâm thần, Tòa án ra quyết định tuyên bố người này là người có khó khăn trong nhận thức, làm chủ hành vi và chỉ định người giám hộ, xác định quyền, nghĩa vụ của người giám hộ.",,0.018440961837768555,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+474,"Theo Điều 22, Bộ luật dân sự 2015, giao dịch dân sự của người mất năng lực hành vi dân sự phải do ai xác lập, thực hiện?",người đại diện theo pháp luật,,0.04327964782714844,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+475,"Theo Điều 24, Bộ luật dân sự 2015, công dân bị hạn chế năng lực hành vi dân sự khi nào?","nghiện ma túy, nghiện các chất kích thích khác dẫn đến phá tán tài sản của gia đình thì theo yêu cầu của người có quyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, Tòa án có thể ra quyết định tuyên bố người này là người bị hạn chế năng lực hành vi dân sự.",,0.03145766258239746,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+476,"Theo Điều 25, Bộ luật dân sự 2015, quyền nhân thân là gì?","quyền dân sự gắn liền với mỗi cá nhân, không thể chuyển giao cho người khác, trừ trường hợp luật khác có liên quan quy định khác.",,0.027632474899291992,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+477,"Theo Điều 25, Bộ luật dân sự 2015, việc xác lập, thực hiện quan hệ dân sự liên quan đến quyền nhân thân của người bị tuyên bố mất tích, người đã chết phải được sự đồng ý của ai?","vợ, chồng hoặc con thành niên của người đó; trường hợp không có những người này thì phải được sự đồng ý của cha, mẹ của người bị tuyên bố mất tích, người đã chết, trừ trường hợp Bộ luật này, luật khác có liên quan quy định khác.",,0.020747900009155273,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+478,"Theo Điều 26, Bộ luật dân sự 2015, họ tên của một người được xác định như thế nào?","xác định theo họ, tên khai sinh của người đó.",,0.027931928634643555,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+479,"Theo Điều 27, Bộ luật dân sự 2015, cá nhân có quyền yêu cầu cơ quan nhà nước có thẩm quyền công nhận việc thay đổi họ trong trường hợp nào?","a) Thay đổi họ cho con đẻ từ họ của cha đẻ sang họ của mẹ đẻ hoặc ngược lại;
+
+b) Thay đổi họ cho con nuôi từ họ của cha đẻ hoặc mẹ đẻ sang họ của cha nuôi hoặc họ của mẹ nuôi theo yêu cầu của cha nuôi, mẹ nuôi;
+
+c) Khi người con nuôi thôi làm con nuôi và người này hoặc cha đẻ, mẹ đẻ yêu cầu lấy lại họ cho người đó theo họ của cha đẻ hoặc mẹ đẻ;
+
+d) Thay đổi họ cho con theo yêu cầu của cha đẻ, mẹ đẻ hoặc của con khi xác định cha, mẹ cho con;
+
+đ) Thay đổi họ của người bị lưu lạc đã tìm ra nguồn gốc huyết thống của mình;
+
+e) Thay đổi họ theo họ của vợ, họ của chồng trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài để phù hợp với pháp luật của nước mà vợ, chồng người nước ngoài là công dân hoặc lấy lại họ trước khi thay đổi;
+
+g) Thay đổi họ của con khi cha, mẹ thay đổi họ;
+
+h) Trường hợp khác do pháp luật về hộ tịch quy định.",,0.031154870986938477,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+480,"Theo Điều 27, Bộ luật dân sự 2015, việc thay đổi họ của cá nhân có làm thay đổi, chấm dứt quyền, nghĩa vụ dân sự được xác lập theo họ cũ hay không?",không,,0.021802902221679688,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+481,"Theo Điều 28, Bộ luật dân sự 2015, cá nhân có quyền yêu cầu cơ quan nhà nước có thẩm quyền công nhận việc thay đổi tên trong trường hợp nào?","a) Theo yêu cầu của người có tên mà việc sử dụng tên đó gây nhầm lẫn, ảnh hưởng đến tình cảm gia đình, đến danh dự, quyền, lợi ích hợp pháp của người đó;
+
+b) Theo yêu cầu của cha nuôi, mẹ nuôi về việc thay đổi tên cho con nuôi hoặc khi người con nuôi thôi làm con nuôi và người này hoặc cha đẻ, mẹ đẻ yêu cầu lấy lại tên mà cha đẻ, mẹ đẻ đã đặt;
+
+c) Theo yêu cầu của cha đẻ, mẹ đẻ hoặc người con khi xác định cha, mẹ cho con;
+
+d) Thay đổi tên của người bị lưu lạc đã tìm ra nguồn gốc huyết thống của mình;
+
+đ) Thay đổi tên của vợ, chồng trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài để phù hợp với pháp luật của nước mà vợ, chồng người nước ngoài là công dân hoặc lấy lại tên trước khi thay đổi;
+
+e) Thay đổi tên của người đã xác định lại giới tính, người đã chuyển đổi giới tính;
+
+g) Trường hợp khác do pháp luật về hộ tịch quy định.",,0.041017770767211914,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+482,"Mô tả quyền được khai sinh, khai tử theo Bộ luật dân sự 2015.","1. Cá nhân từ khi sinh ra có quyền được khai sinh.
+
+2. Cá nhân chết phải được khai tử.
+
+3. Trẻ em sinh ra mà sống được từ hai mươi bốn giờ trở lên mới chết thì phải được khai sinh và khai tử; nếu sinh ra mà sống dưới hai mươi bốn giờ thì không phải khai sinh và khai tử, trừ trường hợp cha đẻ, mẹ đẻ có yêu cầu.
+
+4. Việc khai sinh, khai tử do pháp luật về hộ tịch quy định.",,0.024692773818969727,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+483,Mô tả quyền đối với quốc tịch theo Bộ luật dân sự 2015.,"1. Cá nhân có quyền có quốc tịch.
+
+2. Việc xác định, thay đổi, nhập, thôi, trở lại quốc tịch Việt Nam do Luật quốc tịch Việt Nam quy định.
+
+3. Quyền của người không quốc tịch cư trú, sinh sống trên lãnh thổ Việt Nam được bảo đảm theo luật.",,0.03187966346740723,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+484,"Theo Điều 32, Bộ luật dân sự 2015, cá nhân có quyền đối với hình ảnh của mình như thế nào?","Việc sử dụng hình ảnh của cá nhân phải được người đó đồng ý.
+
+Việc sử dụng hình ảnh của người khác vì mục đích thương mại thì phải trả thù lao cho người có hình ảnh, trừ trường hợp các bên có thỏa thuận khác.",,0.049956560134887695,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+485,"Theo Điều 32, Bộ luật dân sự 2015, sử dụng hình ảnh trong trường hợp nào thì không cần có sự đồng ý của người có hình ảnh hoặc người đại diện theo pháp luật của họ?","a) Hình ảnh được sử dụng vì lợi ích quốc gia, dân tộc, lợi ích công cộng;
+
+b) Hình ảnh được sử dụng từ các hoạt động công cộng, bao gồm hội nghị, hội thảo, hoạt động thi đấu thể thao, biểu diễn nghệ thuật và hoạt động công cộng khác mà không làm tổn hại đến danh dự, nhân phẩm, uy tín của người có hình ảnh.",,0.02685236930847168,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+486,"Theo Điều 32, Bộ luật dân sự 2015, việc sử dụng hình ảnh mà vi phạm quy định tại Điều này thì người có hình ảnh có quyền?","yêu cầu Tòa án ra quyết định buộc người vi phạm, cơ quan, tổ chức, cá nhân có liên quan phải thu hồi, tiêu hủy, chấm dứt việc sử dụng hình ảnh, bồi thường thiệt hại và áp dụng các biện pháp xử lý khác theo quy định của pháp luật.",,0.030178308486938477,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+487,"Theo Điều 33, Bộ luật dân sự 2015, việc khám nghiệm tử thi được thực hiện khi thuộc các trường hợp nào?","a) Có sự đồng ý của người đó trước khi chết;
+
+b) Có sự đồng ý của cha, mẹ, vợ, chồng, con thành niên hoặc người giám hộ nếu không có ý kiến của người đó trước khi chết;
+
+c) Theo quyết định của người đứng đầu cơ sở khám bệnh, chữa bệnh hoặc của cơ quan nhà nước có thẩm quyền trong trường hợp luật quy định.",,0.03307628631591797,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+488,"Theo Điều 34, Bộ luật dân sự 2015, danh dự, nhân phẩm, uy tín của cá nhân là?",bất khả xâm phạm và được pháp luật bảo vệ.,,0.027950048446655273,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+489,"Theo Điều 34, Bộ luật dân sự 2015, cá nhân bị thông tin làm ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín thì ngoài quyền yêu cầu bác bỏ thông tin đó còn có quyền gì?","yêu cầu người đưa ra thông tin xin lỗi, cải chính công khai và bồi thường thiệt hại.",,0.05226755142211914,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+490,"Theo Điều 36, Bộ luật dân sự 2015, việc xác định lại giới tính của một người được thực hiện trong trường hợp nào?",giới tính của người đó bị khuyết tật bẩm sinh hoặc chưa định hình chính xác mà cần có sự can thiệp của y học nhằm xác định rõ giới tính.,,0.029347896575927734,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+491,"Theo Điều 36, Bộ luật dân sự 2015, cá nhân đã thực hiện việc xác định lại giới tính có các quyền và nghĩa vụ như thế nào?",đăng ký thay đổi hộ tịch theo quy định của pháp luật về hộ tịch; có quyền nhân thân phù hợp với giới tính đã được xác định lại theo quy định của Bộ luật này và luật khác có liên quan.,,0.03366589546203613,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+492,Bộ luật dân sự 2015 quy định thế nào về Đại diện tham gia quan hệ dân sự?,"Việc đại diện cho Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, cơ quan nhà nước ở trung ương, ở địa phương tham gia quan hệ dân sự được thực hiện theo quy định của pháp luật về chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của cơ quan nhà nước. Việc đại diện thông qua cá nhân, pháp nhân khác chỉ được thực hiện trong các trường hợp và theo trình tự, thủ tục do pháp luật quy định.",,0.04232192039489746,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+493,"Theo Điều 102 , Bộ luật dân sự 2015, tài sản chung của các thành viên của tổ chức khác không có tư cách pháp nhân, quyền, nghĩa vụ đối với tài sản này được xác định như thế nào?","Việc xác định tài sản chung của các thành viên của tổ chức khác không có tư cách pháp nhân, quyền, nghĩa vụ đối với tài sản này được xác định theo thỏa thuận của các thành viên, trừ trường hợp pháp luật có quy định khác.",,0.0226593017578125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+494,Theo Bộ luật Dân sự năm 2015 tài sản hình thành trong tương lai bao gồm những loại tài sản nào?,"Tài sản hình thành trong tương lai bao gồm:
+
+a) Tài sản chưa hình thành;
+
+b) Tài sản đã hình thành nhưng chủ thể xác lập quyền sở hữu tài sản sau thời điểm xác lập giao dịch.",,0.02424907684326172,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+495,Bộ luật Dân sự năm 2015 quy định như thế nào về tài sản hiện có?,"Tài sản hiện có là tài sản đã hình thành và chủ thể đã xác lập quyền sở hữu, quyền khác đối với tài sản trước hoặc tại thời điểm xác lập giao dịch.",,0.03537607192993164,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+496,"Theo Bộ luật Dân sự 2015, Quyền sở hữu, quyền khác đối với tài sản là động sản có được đăng ký tại cơ quan nhà nước có thẩm quyền không?","Quyền sở hữu, quyền khác đối với tài sản là động sản không phải đăng ký, trừ trường hợp pháp luật về đăng ký tài sản có quy định khác.",,0.03871560096740723,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+497,Bộ luật Dân sự năm 2015 quy định như thế nào về huỷ bỏ quyết định tuyên bố mất tích?,"Khi người bị tuyên bố mất tích trở về hoặc có tin tức xác thực là người đó còn sống thì theo yêu cầu của người đó hoặc của người có quyền, lợi ích liên quan, Tòa án ra quyết định hủy bỏ quyết định tuyên bố mất tích đối với người đó.",,0.022803306579589844,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+498,Bộ luật Dân sự năm 2015 quy định như thế nào về việc huỷ bỏ quyết định tuyên bố chết?,"Khi một người bị tuyên bố là đã chết trở về hoặc có tin tức xác thực là người đó còn sống thì theo yêu cầu của người đó hoặc của người có quyền, lợi ích liên quan, Tòa án ra quyết định hủy bỏ quyết định tuyên bố người đó là đã chết",,0.025539159774780273,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+499,"Theo Bộ luật Dân sự năm 2015, một tổ chức được công nhận là pháp nhân trong trường hợp nào sau đây?","Một tổ chức được công nhận là pháp nhân khi có đủ các điều kiện sau đây:
+
+a) Được thành lập theo quy định của Bộ luật này, luật khác có liên quan;
+
+b) Có cơ cấu tổ chức theo quy định tại Điều 83 của Bộ luật này;
+
+c) Có tài sản độc lập với cá nhân, pháp nhân khác và tự chịu trách nhiệm bằng tài sản của mình;
+
+d) Nhân danh mình tham gia quan hệ pháp luật một cách độc lập.",,0.0442357063293457,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+500,"Theo Bộ luật Dân sự 2015, Quyền sở hữu, quyền khác đối với tài sản là bất động sản có được đăng ký tại cơ quan nhà nước có thẩm quyền không?","Quyền sở hữu, quyền khác đối với tài sản là bất động sản được đăng ký theo quy định của Bộ luật này và pháp luật về đăng ký tài sản.",,0.04719233512878418,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+501,"Theo Bộ luật Dân sự năm 2015, Bất động sản bao gồm những loại nào?","Bất động sản bao gồm:
+
+a) Đất đai;
+
+b) Nhà, công trình xây dựng gắn liền với đất đai;
+
+c) Tài sản khác gắn liền với đất đai, nhà, công trình xây dựng;
+
+d) Tài sản khác theo quy định của pháp luật.",,0.02035379409790039,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+502,"Theo Bộ luật Dân sự 2015, lợi tức được hiểu như thế nào?",Lợi tức là khoản lợi thu được từ việc khai thác tài sản.,,0.026888132095336914,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+503,Bộ luật Dân sự 2015 quy định thế nào về nơi lưu trú cá nhân?,Nơi cư trú của cá nhân là nơi người đó thường xuyên sinh sống.,,0.02977752685546875,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+504,Bộ luật Dân sự 2015 quy định thế nào về tuyên bố mất tích?,"1. Khi một người biệt tích 02 năm liền trở lên, mặc dù đã áp dụng đầy đủ các biện pháp thông báo, tìm kiếm theo quy định của pháp luật về tố tụng dân sự nhưng vẫn không có tin tức xác thực về việc người đó còn sống hay đã chết thì theo yêu cầu của người có quyền, lợi ích liên quan, Tòa án có thể tuyên bố người đó mất tích.
+
+Thời hạn 02 năm được tính từ ngày biết được tin tức cuối cùng về người đó; nếu không xác định được ngày có tin tức cuối cùng thì thời hạn này được tính từ ngày đầu tiên của tháng tiếp theo tháng có tin tức cuối cùng; nếu không xác định được ngày, tháng có tin tức cuối cùng thì thời hạn này được tính từ ngày đầu tiên của năm tiếp theo năm có tin tức cuối cùng.",,0.028499126434326172,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+505,Bộ luật Dân sự 2015 quy định pháp nhân thương mại là gì?,Pháp nhân thương mại là pháp nhân có mục tiêu chính là tìm kiếm lợi nhuận và lợi nhuận được chia cho các thành viên.,,0.02768683433532715,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+506,Bộ luật Dân sự 2015 quy định pháp nhân phi thương mại là gì?,1. Pháp nhân phi thương mại là pháp nhân không có mục tiêu chính là tìm kiếm lợi nhuận; nếu có lợi nhuận thì cũng không được phân chia cho các thành viên.,,0.029500246047973633,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+507,Bộ luật Dân sự 2015 quy định thế nào về tên gọi của pháp nhân?,"1. Pháp nhân phải có tên gọi bằng tiếng Việt.
+
+2. Tên gọi của pháp nhân phải thể hiện rõ loại hình tổ chức của pháp nhân và phân biệt với các pháp nhân khác trong cùng một lĩnh vực hoạt động.
+
+3. Pháp nhân phải sử dụng tên gọi của mình trong giao dịch dân sự.
+
+4. Tên gọi của pháp nhân được pháp luật công nhận và bảo vệ.",,0.035637617111206055,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+508,Bộ luật Dân sự 2015 quy định thế nào về tài sản của pháp nhân?,"Tài sản của pháp nhân bao gồm vốn góp của chủ sở hữu, sáng lập viên, thành viên của pháp nhân và tài sản khác mà pháp nhân được xác lập quyền sở hữu theo quy định của Bộ luật này, luật khác có liên quan.",,0.03498482704162598,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+509,"Bộ luật Dân sự 2015 quy định thế nào về chi nhánh, văn phòng đại diện của pháp nhân?","Chi nhánh, văn phòng đại diện là đơn vị phụ thuộc của pháp nhân, không phải là pháp nhân.",,0.026454687118530273,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+510,Theo Bộ luật dân sự 2015 năng lực pháp luật dân sự của pháp nhân có bị hạn chế không?,"Năng lực pháp luật dân sự của pháp nhân là khả năng của pháp nhân có các quyền, nghĩa vụ dân sự. Năng lực pháp luật dân sự của pháp nhân không bị hạn chế, trừ trường hợp Bộ luật này, luật khác có liên quan quy định khác.",,0.02535843849182129,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+511,"Theo Bộ luật dân sự 2015, pháp nhân giải thể trong trường hợp nào?","Pháp nhân giải thể trong trường hợp sau đây:
+
+a) Theo quy định của điều lệ;
+
+b) Theo quyết định của cơ quan nhà nước có thẩm quyền;
+
+c) Hết thời hạn hoạt động được ghi trong điều lệ hoặc trong quyết định của cơ quan nhà nước có thẩm quyền;
+
+d) Trường hợp khác theo quy định của pháp luật.",,0.03442859649658203,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+512,"Theo Bộ luật dân sự 2015, pháp nhân chấm dứt tồn tại trong trường hợp nào?","1. Pháp nhân chấm dứt tồn tại trong trường hợp sau đây:
+
+a) Hợp nhất, sáp nhập, chia, chuyển đổi hình thức, giải thể pháp nhân theo quy định tại các điều 88, 89, 90, 92 và 93 của Bộ luật này;
+
+b) Bị tuyên bố phá sản theo quy định của pháp luật về phá sản.",,0.03066277503967285,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+513,"Theo Bộ luật Dân sự 2015, Nhà nước Cộng hòa xã hội chủ nghĩa
+Việt Nam, cơ quan nhà nước ở trung ương, ở địa phương chịu trách nhiệm về
+nghĩa vụ dân sự do mình xác lập với nhà nước, pháp nhân, cá nhân nước
+ngoài trong trường hợp nào sau đây?","1. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, cơ quan nhà nước ở Trung ương, ở địa phương chịu trách nhiệm về nghĩa vụ dân sự do mình xác lập với nhà nước, pháp nhân, cá nhân nước ngoài trong trường hợp sau đây:
+
+a) Điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định về việc từ bỏ quyền miễn trừ;
+
+b) Các bên trong quan hệ dân sự có thỏa thuận từ bỏ quyền miễn trừ;
+
+c) Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, cơ quan nhà nước ở Trung ương, ở địa phương từ bỏ quyền miễn trừ.",,0.030558347702026367,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+514,"Theo Bộ luật Dân sự 2015 “tài sản” được hiểu như thế nào và
+bao gồm những gì?","1. Tài sản là vật, tiền, giấy tờ có giá và quyền tài sản.
+
+2. Tài sản bao gồm bất động sản và động sản. Bất động sản và động sản có thể là tài sản hiện có và tài sản hình thành trong tương lai.",,0.03153705596923828,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+515,"Theo Bộ luật Dân sự 2015, Quyền sở hữu, quyền khác đối với tài
+sản là bất động sản có được đăng ký tại cơ quan nhà nước có thẩm quyền
+không?","Quyền sở hữu, quyền khác đối với tài sản là bất động sản được đăng ký theo quy định của Bộ luật này và pháp luật về đăng ký tài sản.",,0.022300243377685547,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+516,"Theo Bộ luật Dân sự 2015, hoa lợi được hiểu như thế nào?",Hoa lợi là sản vật tự nhiên mà tài sản mang lại.,,0.023064136505126953,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+517,"Theo Bộ luật Dân sự 2015, vật chính được hiểu như thế nào?","Vật chính là vật độc lập, có thể khai thác công dụng theo tính năng.",,0.02915811538696289,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+518,"Theo Bộ luật Dân sự 2015, vật phụ được hiểu như thế nào?","Vật phụ là vật trực tiếp phục vụ cho việc khai thác công dụng của vật chính, là một bộ phận của vật chính, nhưng có thể tách rời vật chính.",,0.0208132266998291,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+519,"Theo Bộ luật Dân sự 2015, vật chia được được hiểu như thế nào?",Vật chia được là vật khi bị phân chia vẫn giữ nguyên tính chất và tính năng sử dụng ban đầu.,,0.020865201950073242,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+520,"Trong trường hợp các bên không có thỏa thuận khác hoặc quy tắc tố tụng của trung tâm trọng tài không có quy định khác, Trung tâm trọng tài phải gửi cho bị đơn bản sao đơn khởi kiện của nguyên đơn và những tài liệu theo quy định trong thời hạn bao lâu kể từ ngày nhận được đơn khởi kiện?",10 ngày,,0.05155682563781738,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+521,Hồ sơ đề nghị cấp lại thẻ hướng dẫn viên du lịch bao gồm ảnh chân dung màu cỡ bao nhiêu?,3 cm x 4 cm,,0.018305063247680664,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+522,"Thời hạn quản lý người sử dụng trái phép chất ma túy là bao lâu kể từ ngày Chủ tịch Ủy ban nhân dân cấp xã, phường ra quyết định quản lý?",1 năm,,0.040823936462402344,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+523,Chức năng của Trung tâm trọng tài là gì?,"Tổ chức, điều phối hoạt động giải quyết tranh chấp bằng Trọng tài quy chế và hỗ trợ Trọng tài viên về các mặt hành chính, văn phòng và các trợ giúp khác trong quá trình tố tụng trọng tài.",,0.030845165252685547,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+524,Sau khi sổ hộ khẩu hết hiệu lực (hết ngày 31/12/2022) thì chứng minh nơi thường trú bằng cách nào?,"Công dân chỉ cần xuất trình thẻ CMND/CCCD, cơ quan có thẩm quyền sẽ tra cứu được các thông tin cư trú trong hệ thống cơ sở dữ liệu quốc gia.",,0.029864072799682617,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+525,Vợ chồng đã ly hôn muốn xác lập lại quan hệ vợ chồng thì cần làm thủ tục gì?,đăng ký kết hôn,,0.03094625473022461,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+526,"Ai là người giữ vai trò quan trọng trong việc quản lý, tổ chức, và điều hành các hoạt động giáo dục?",Cán bộ quản lý giáo dục,,0.03018927574157715,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+527,Nguồn tài chính nào giữ vai trò chủ đạo trong tổng nguồn lực đầu tư cho giáo dục?,Ngân sách nhà nước,,0.018087148666381836,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+528,Cơ quan nào có trách nhiệm là cơ quan giúp Chính phủ thực hiện quản lý nhà nước về điện ảnh?,"Bộ Văn hóa, Thể thao và Du lịch",,0.028720855712890625,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+529,Cơ quan nào có trách nhiệm thống nhất quản lý nhà nước về điện ảnh?,Chính phủ,,0.017156124114990234,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
